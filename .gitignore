@@ -1,0 +1,36 @@
+# Data files (太大，不要进 Git)
+data/raw/
+data/processed/
+*.tsv.gz
+*.csv.gz
+ml-25m/
+ml-25m.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 环境配置
+.env
+.env.local
+secrets.yaml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Docker volumes
+infra/volumes/
