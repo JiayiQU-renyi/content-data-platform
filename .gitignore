@@ -1,5 +1,7 @@
 # Data files (太大，不要进 Git)
 data/raw/
+# 数据仓库生成的文件
+data/warehouse/
 data/processed/
 *.tsv.gz
 *.csv.gz
