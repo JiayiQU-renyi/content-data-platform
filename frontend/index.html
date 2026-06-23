@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Record of Attention · 内容评价数据平台</title>
+    <meta name="description" content="基于 IMDb 与 MovieLens 真实数据,以个人多年观影记录为视角的端到端内容数据平台。">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+    <!-- ECharts -->
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="nav-inner">
+            <a href="#" class="nav-brand">
+                <span class="nav-brand-mark">◐</span>
+                <span class="nav-brand-text">Content Data Platform</span>
+            </a>
+            <div class="nav-links">
+                <a href="#dashboard">Dashboard</a>
+                <a href="#top">Top</a>
+                <a href="#about">About</a>
+                <a href="https://github.com/JiayiQU-renyi/content-data-platform" target="_blank">GitHub →</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <header class="hero">
+        <div class="container">
+            <div class="hero-meta">
+                <span class="mono">01 / Index</span>
+                <span class="mono">2026 · 06</span>
+            </div>
+            <h1 class="hero-title">
+                Data  is  all  u<br>
+                <em>need.</em>
+            </h1>
+            <p class="hero-subtitle">
+                基于 IMDb 与 MovieLens 真实数据，构建端到端内容数据平台。<br>
+                Built on PySpark + Hive-style warehousing + ClickHouse + Flink.
+            </p>
+
+            <!-- KPI strip -->
+            <div class="kpi-strip">
+                <div class="kpi">
+                    <div class="kpi-label mono">events analyzed</div>
+                    <div class="kpi-value" data-counter id="kpi-events">25,000,095</div>
+                </div>
+                <div class="kpi">
+                    <div class="kpi-label mono">unique titles</div>
+                    <div class="kpi-value" data-counter id="kpi-titles">62,423</div>
+                </div>
+                <div class="kpi">
+                    <div class="kpi-label mono">contributing users</div>
+                    <div class="kpi-value" data-counter id="kpi-users">162,541</div>
+                </div>
+                <div class="kpi">
+                    <div class="kpi-label mono">years of history</div>
+                    <div class="kpi-value" data-counter id="kpi-years">25</div>
+                </div>
+            </div>
+
+            <div class="hero-source mono">
+                Sources <span class="dash">—</span>
+                IMDb Non-Commercial Datasets ·
+                MovieLens 25M (GroupLens Research) ·
+                TMDb API
+            </div>
+        </div>
+    </header>
+
+    <!-- Dashboard -->
+    <section class="section" id="dashboard">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-eyebrow mono">02 / Dashboard</span>
+                <h2 class="section-title">Patterns in time.</h2>
+                <p class="section-description">每一个图表都来自数据仓库 ADS 层的指标表，通过 JSON 导出供前端消费。</p>
+            </div>
+
+            <!-- Chart Grid -->
+            <div class="chart-grid">
+
+                <!-- Chart: DAU Trend -->
+                <article class="chart-card chart-card-wide">
+                    <header class="chart-header">
+                        <span class="chart-num mono">01</span>
+                        <div>
+                            <h3 class="chart-title">Monthly active users</h3>
+                            <p class="chart-sub">基于 dws_user_daily 聚合得到的月度活跃趋势</p>
+                        </div>
+                    </header>
+                    <div class="chart" id="chart-dau" data-chart></div>
+                </article>
+
+                <!-- Chart: User Funnel -->
+                <article class="chart-card">
+                    <header class="chart-header">
+                        <span class="chart-num mono">02</span>
+                        <div>
+                            <h3 class="chart-title">Engagement funnel</h3>
+                            <p class="chart-sub">用户参与度漏斗 — 从入门到深度</p>
+                        </div>
+                    </header>
+                    <div class="chart" id="chart-funnel" data-chart></div>
+                </article>
+
+                <!-- Chart: Retention -->
+                <article class="chart-card chart-card-wide">
+                    <header class="chart-header">
+                        <span class="chart-num mono">03</span>
+                        <div>
+                            <h3 class="chart-title">Cohort retention</h3>
+                            <p class="chart-sub">按首次活跃年份分组的用户留存矩阵</p>
+                        </div>
+                    </header>
+                    <div class="chart" id="chart-retention" data-chart></div>
+                </article>
+
+                <!-- Chart: Genre × Era -->
+                <article class="chart-card">
+                    <header class="chart-header">
+                        <span class="chart-num mono">04</span>
+                        <div>
+                            <h3 class="chart-title">Genre popularity</h3>
+                            <p class="chart-sub">按年代分组的类型受欢迎度</p>
+                        </div>
+                    </header>
+                    <div class="chart" id="chart-genre" data-chart></div>
+                </article>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Top Movies -->
+    <section class="section section-alt" id="top">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-eyebrow mono">03 / Top</span>
+                <h2 class="section-title">The canon, as the data sees it.</h2>
+                <p class="section-description">
+                    综合评分与热度的双维度榜单，公式：<span class="mono">avg_rating × log10(rating_count)</span>。<br>
+                    数据来自 ads_top_movies 表。
+                </p>
+            </div>
+
+            <div class="top-list" id="top-movies-list">
+                <!-- 由 JS 填充 -->
+                <div class="loading mono">Loading top movies…</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About -->
+    <section class="section" id="about">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-eyebrow mono">04 / About</span>
+                <h2 class="section-title">How this works.</h2>
+            </div>
+
+            <div class="about-grid">
+
+                <div class="about-block">
+                    <h3 class="about-block-title">Architecture</h3>
+                    <pre class="arch-diagram mono">
+Frontend (ECharts on HTML/CSS/JS)
+    ↑ JSON
+ADS Layer · 5 business metric tables
+    ↑
+DWS Layer · subject-area aggregations
+    ↑
+DWD Layer · cleaned star schema
+    ↑
+ODS Layer · raw data in Parquet format
+    ↑
+Raw sources · IMDb + MovieLens + TMDb
+                    </pre>
+                </div>
+
+                <div class="about-block">
+                    <h3 class="about-block-title">Stack</h3>
+                    <ul class="stack-list">
+                        <li><span class="mono">storage</span><span>Parquet · Hive-style partitioning</span></li>
+                        <li><span class="mono">compute</span><span>PySpark · Spark SQL</span></li>
+                        <li><span class="mono">olap</span><span>ClickHouse · MergeTree</span></li>
+                        <li><span class="mono">streaming</span><span>Kafka · Flink</span></li>
+                        <li><span class="mono">frontend</span><span>HTML · CSS · ECharts</span></li>
+                    </ul>
+                </div>
+
+                <div class="about-block">
+                    <h3 class="about-block-title">Methodology</h3>
+                    <p class="about-text">
+                        所有数据通过四层数仓加工：原始数据 → 明细 → 主题聚合 → 业务指标。
+                        采用维度建模（星型模型），事实表按年份做 Hive 风格分区。
+                        本项目纯学习用途，遵循各数据源的非商业使用协议。
+                    </p>
+                </div>
+
+                <div class="about-block">
+                    <h3 class="about-block-title">Author</h3>
+                    <p class="about-text">
+                        瞿嘉亿 · 西南大学软件工程<br>
+                        2026 数据工程方向<br>
+                        <a href="https://github.com/JiayiQU-renyi/content-data-platform">View on GitHub →</a>
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-inner">
+                <div class="mono">
+                    This product uses the TMDb API but is not endorsed or certified by TMDb.<br>
+                    IMDb data © IMDb.com, Inc. for non-commercial use.<br>
+                    MovieLens data © GroupLens Research.
+                </div>
+                <div class="mono footer-build">
+                    <span>build · day 6</span><br>
+                    <span>updated · 2026</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts/main.js"></script>
+</body>
+</html>
