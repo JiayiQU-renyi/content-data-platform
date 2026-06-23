@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "title": "Fleabag",
+    "title_local": null,
+    "year": 2016,
+    "country": "UK",
+    "type": "TV Series",
+    "review": "我最喜欢的剧集之一,第一次在剧里感受到那种自嘲式幽默,独特的叙事节奏和剧情发展可以抓住所有人的情绪,包括里面有关女权或者女性的讨论我也很喜欢。",
+    "poster": "fleabag.png"
+  },
+  {
+    "rank": 2,
+    "title": "好东西",
+    "title_local": "Her Story",
+    "year": 2024,
+    "country": "China",
+    "type": "Film",
+    "review": "这是一部近两年中国电影市场上宛如平地一声雷的作品,让我发现有的题材并不是作品不过审而是没有人将它落地拍摄,第一次在中国电影上看到这么丰富且有棱角的女性形象。",
+    "poster": "herstory.png"
+  },
+  {
+    "rank": 3,
+    "title": "Hacks",
+    "title_local": null,
+    "year": 2021,
+    "country": "US",
+    "type": "TV Series",
+    "review": "我用了一周时间把五季一口气看完了,可能第三第四季对我来说没觉得那么出色但我还是为编剧们的剧本撰写以及演员的个人魅力感到钦佩,我还是那么喜欢带有幽默感的人。",
+    "poster": "hacks.png"
+  },
+  {
+    "rank": 4,
+    "title": "Dead Poets Society",
+    "title_local": "死亡诗社",
+    "year": 1989,
+    "country": "US",
+    "type": "Film",
+    "review": "可能是初中看的了,印象最深刻的片段是大家围在一起诵读诗歌,很神圣的片段,那些有关对于浪漫、诗歌、爱的追求是人永远不能放弃的。",
+    "poster": "dps.png"
+  },
+  {
+    "rank": 5,
+    "title": "Killing Eve",
+    "title_local": null,
+    "year": 2018,
+    "country": "UK",
+    "type": "TV Series",
+    "review": "人物设定很丰满并且在市面上不常见,一个类似神经病的杀手和一个看似正常实则有着独特癖好的警局工作者,独特的灵魂吸引会让人走到一起。我好像没有把结局看完,只看了两三季,我不能容忍编剧狗尾续貂。",
+    "poster": "killingeve.png"
+  },
+  {
+    "rank": 6,
+    "title": "There's Still Tomorrow",
+    "title_local": "还有明天 / C'è ancora domani",
+    "year": 2023,
+    "country": "Italy",
+    "type": "Film",
+    "review": "一开始我以为会因为黑白电影感到无聊,但观看的时候我发现只要有好的剧本讲述,再配合极其精心挑选的背景音乐,观影体验十分好,包括电影传达的精神都值得一看。",
+    "poster": "tomorrow.png"
+  },
+  {
+    "rank": 7,
+    "title": "Portrait of a Lady on Fire",
+    "title_local": "燃烧女子的肖像 / Portrait de la jeune fille en feu",
+    "year": 2019,
+    "country": "France",
+    "type": "Film",
+    "review": "席琳席安玛的作品,电影的配色、音乐、拍摄镜头都值得反复品味,那种关于凝视的讨论或者更深层次的哲学讨论把电影提高了一个层次。",
+    "poster": "portrait.png"
+  },
+  {
+    "rank": 8,
+    "title": "Hamilton",
+    "title_local": null,
+    "year": 2015,
+    "country": "US",
+    "type": "Musical",
+    "review": "这是我看的第一部音乐剧,看到演员在台上演绎,结合肢体以及音乐,我一下就感受到了一种源自音乐和现场的魅力,可能我对里面的角色或者剧本没有特别大触动的但我依旧觉得这是一部连接新时代和曾经辉煌过的百老汇的很好的桥梁。",
+    "poster": "hamilton.png"
+  },
+  {
+    "rank": 9,
+    "title": "Friends",
+    "title_local": "老友记",
+    "year": 1994,
+    "country": "US",
+    "type": "TV Series",
+    "review": "几年前看的了,但也是看得最久的一部剧,生活喜剧有很神奇的能力让你对其中角色投入感情,对于 Rachel 的感情线路我不是很喜欢,但离开原有的家庭到后来有了自己的事业这让我觉得很酷。",
+    "poster": "friends.png"
+  },
+  {
+    "rank": 10,
+    "title": "Readers",
+    "title_local": "朗读者",
+    "year": 2017,
+    "country": "China",
+    "type": "TV Program",
+    "review": "几乎是董卿全部的心血投入,这也是我在高中时期最经常看的节目,因为很多作文素材通过这个节目讲述会更具备力量,更有说服力,即使是单纯地朗读一本书的节选也会感受到精神在传递。",
+    "poster": "readers.png"
+  }
+]

@@ -370,6 +370,47 @@ async function renderTopMovies() {
     });
 }
 
+// ----- Personal Reviews -----
+async function renderPersonalReviews() {
+    const data = await loadJSON('./data/personal_reviews.json');
+    if (!data) return;
+
+    const container = document.getElementById('personal-reviews');
+    container.innerHTML = '';
+
+    data.forEach(item => {
+        const entry = document.createElement('article');
+        entry.className = 'review-entry';
+
+        // 海报或占位符
+        const posterHtml = item.poster
+            ? `<img class="review-poster" src="./data/posters/${item.poster}" alt="${item.title} poster" loading="lazy" onerror="this.outerHTML='<div class=\\'review-poster-placeholder\\'>NO IMAGE</div>'">`
+            : `<div class="review-poster-placeholder">NO IMAGE</div>`;
+
+        const localTitleHtml = item.title_local
+            ? `<div class="review-title-local">${item.title_local}</div>`
+            : '';
+
+        entry.innerHTML = `
+            ${posterHtml}
+            <div class="review-content">
+                <div class="review-num">№ ${String(item.rank).padStart(2, '0')}</div>
+                <h3 class="review-title">${item.title}</h3>
+                ${localTitleHtml}
+                <div class="review-meta">
+                    <span>${item.year}</span>
+                    <span class="dot">·</span>
+                    <span>${item.country}</span>
+                    <span class="dot">·</span>
+                    <span class="review-type">${item.type}</span>
+                </div>
+                <p class="review-text">${item.review}</p>
+            </div>
+        `;
+        container.appendChild(entry);
+    });
+}
+
 // ----- KPI counters (animated count-up) -----
 function animateCounter(el, target) {
     const duration = 1200;
@@ -417,4 +458,5 @@ document.addEventListener('DOMContentLoaded', () => {
     renderRetentionChart();
     renderGenreChart();
     renderTopMovies();
+    renderPersonalReviews();
 });
