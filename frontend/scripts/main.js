@@ -23,7 +23,7 @@ const COLORS = {
 
 // ECharts shared text styling
 const TEXT_STYLE = {
-    fontFamily: '"Inter", -apple-system, "PingFang SC", sans-serif',
+    fontFamily: '"Inter", "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif',
     color: COLORS.ink3,
     fontSize: 12
 };
@@ -47,7 +47,11 @@ const TOOLTIP_BASE = {
 const AXIS_BASE = {
     axisLine: { lineStyle: { color: COLORS.line } },
     axisTick: { show: false },
-    axisLabel: { color: COLORS.ink3, fontSize: 11, fontFamily: '"JetBrains Mono", monospace' },
+    axisLabel: { 
+        color: COLORS.ink3, 
+        fontSize: 11, 
+        fontFamily: '"JetBrains Mono", "Helvetica Neue", "PingFang SC", "Microsoft YaHei", monospace' 
+    },
     splitLine: { lineStyle: { color: COLORS.line, type: 'solid' } }
 };
 
