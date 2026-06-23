@@ -1,0 +1,737 @@
+[
+  {
+    "cohort_year": 2000,
+    "year_offset": 0,
+    "active_users": 10729,
+    "cohort_total": 10729,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2000,
+    "year_offset": 1,
+    "active_users": 1747,
+    "cohort_total": 10729,
+    "retention_pct": "16.3"
+  },
+  {
+    "cohort_year": 2000,
+    "year_offset": 2,
+    "active_users": 1009,
+    "cohort_total": 10729,
+    "retention_pct": "9.4"
+  },
+  {
+    "cohort_year": 2000,
+    "year_offset": 3,
+    "active_users": 763,
+    "cohort_total": 10729,
+    "retention_pct": "7.1"
+  },
+  {
+    "cohort_year": 2000,
+    "year_offset": 4,
+    "active_users": 611,
+    "cohort_total": 10729,
+    "retention_pct": "5.7"
+  },
+  {
+    "cohort_year": 2000,
+    "year_offset": 5,
+    "active_users": 503,
+    "cohort_total": 10729,
+    "retention_pct": "4.7"
+  },
+  {
+    "cohort_year": 2001,
+    "year_offset": 0,
+    "active_users": 6246,
+    "cohort_total": 6246,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2001,
+    "year_offset": 1,
+    "active_users": 1004,
+    "cohort_total": 6246,
+    "retention_pct": "16.1"
+  },
+  {
+    "cohort_year": 2001,
+    "year_offset": 2,
+    "active_users": 617,
+    "cohort_total": 6246,
+    "retention_pct": "9.9"
+  },
+  {
+    "cohort_year": 2001,
+    "year_offset": 3,
+    "active_users": 454,
+    "cohort_total": 6246,
+    "retention_pct": "7.3"
+  },
+  {
+    "cohort_year": 2001,
+    "year_offset": 4,
+    "active_users": 337,
+    "cohort_total": 6246,
+    "retention_pct": "5.4"
+  },
+  {
+    "cohort_year": 2001,
+    "year_offset": 5,
+    "active_users": 257,
+    "cohort_total": 6246,
+    "retention_pct": "4.1"
+  },
+  {
+    "cohort_year": 2002,
+    "year_offset": 0,
+    "active_users": 4093,
+    "cohort_total": 4093,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2002,
+    "year_offset": 1,
+    "active_users": 796,
+    "cohort_total": 4093,
+    "retention_pct": "19.4"
+  },
+  {
+    "cohort_year": 2002,
+    "year_offset": 2,
+    "active_users": 491,
+    "cohort_total": 4093,
+    "retention_pct": "12.0"
+  },
+  {
+    "cohort_year": 2002,
+    "year_offset": 3,
+    "active_users": 335,
+    "cohort_total": 4093,
+    "retention_pct": "8.2"
+  },
+  {
+    "cohort_year": 2002,
+    "year_offset": 4,
+    "active_users": 259,
+    "cohort_total": 4093,
+    "retention_pct": "6.3"
+  },
+  {
+    "cohort_year": 2002,
+    "year_offset": 5,
+    "active_users": 189,
+    "cohort_total": 4093,
+    "retention_pct": "4.6"
+  },
+  {
+    "cohort_year": 2003,
+    "year_offset": 0,
+    "active_users": 4638,
+    "cohort_total": 4638,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2003,
+    "year_offset": 1,
+    "active_users": 1005,
+    "cohort_total": 4638,
+    "retention_pct": "21.7"
+  },
+  {
+    "cohort_year": 2003,
+    "year_offset": 2,
+    "active_users": 560,
+    "cohort_total": 4638,
+    "retention_pct": "12.1"
+  },
+  {
+    "cohort_year": 2003,
+    "year_offset": 3,
+    "active_users": 405,
+    "cohort_total": 4638,
+    "retention_pct": "8.7"
+  },
+  {
+    "cohort_year": 2003,
+    "year_offset": 4,
+    "active_users": 305,
+    "cohort_total": 4638,
+    "retention_pct": "6.6"
+  },
+  {
+    "cohort_year": 2003,
+    "year_offset": 5,
+    "active_users": 255,
+    "cohort_total": 4638,
+    "retention_pct": "5.5"
+  },
+  {
+    "cohort_year": 2004,
+    "year_offset": 0,
+    "active_users": 4564,
+    "cohort_total": 4564,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2004,
+    "year_offset": 1,
+    "active_users": 948,
+    "cohort_total": 4564,
+    "retention_pct": "20.8"
+  },
+  {
+    "cohort_year": 2004,
+    "year_offset": 2,
+    "active_users": 564,
+    "cohort_total": 4564,
+    "retention_pct": "12.4"
+  },
+  {
+    "cohort_year": 2004,
+    "year_offset": 3,
+    "active_users": 415,
+    "cohort_total": 4564,
+    "retention_pct": "9.1"
+  },
+  {
+    "cohort_year": 2004,
+    "year_offset": 4,
+    "active_users": 310,
+    "cohort_total": 4564,
+    "retention_pct": "6.8"
+  },
+  {
+    "cohort_year": 2004,
+    "year_offset": 5,
+    "active_users": 246,
+    "cohort_total": 4564,
+    "retention_pct": "5.4"
+  },
+  {
+    "cohort_year": 2005,
+    "year_offset": 0,
+    "active_users": 7919,
+    "cohort_total": 7919,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2005,
+    "year_offset": 1,
+    "active_users": 1401,
+    "cohort_total": 7919,
+    "retention_pct": "17.7"
+  },
+  {
+    "cohort_year": 2005,
+    "year_offset": 2,
+    "active_users": 859,
+    "cohort_total": 7919,
+    "retention_pct": "10.8"
+  },
+  {
+    "cohort_year": 2005,
+    "year_offset": 3,
+    "active_users": 590,
+    "cohort_total": 7919,
+    "retention_pct": "7.5"
+  },
+  {
+    "cohort_year": 2005,
+    "year_offset": 4,
+    "active_users": 428,
+    "cohort_total": 7919,
+    "retention_pct": "5.4"
+  },
+  {
+    "cohort_year": 2005,
+    "year_offset": 5,
+    "active_users": 371,
+    "cohort_total": 7919,
+    "retention_pct": "4.7"
+  },
+  {
+    "cohort_year": 2006,
+    "year_offset": 0,
+    "active_users": 5413,
+    "cohort_total": 5413,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2006,
+    "year_offset": 1,
+    "active_users": 1040,
+    "cohort_total": 5413,
+    "retention_pct": "19.2"
+  },
+  {
+    "cohort_year": 2006,
+    "year_offset": 2,
+    "active_users": 612,
+    "cohort_total": 5413,
+    "retention_pct": "11.3"
+  },
+  {
+    "cohort_year": 2006,
+    "year_offset": 3,
+    "active_users": 457,
+    "cohort_total": 5413,
+    "retention_pct": "8.4"
+  },
+  {
+    "cohort_year": 2006,
+    "year_offset": 4,
+    "active_users": 366,
+    "cohort_total": 5413,
+    "retention_pct": "6.8"
+  },
+  {
+    "cohort_year": 2006,
+    "year_offset": 5,
+    "active_users": 281,
+    "cohort_total": 5413,
+    "retention_pct": "5.2"
+  },
+  {
+    "cohort_year": 2007,
+    "year_offset": 0,
+    "active_users": 4754,
+    "cohort_total": 4754,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2007,
+    "year_offset": 1,
+    "active_users": 1043,
+    "cohort_total": 4754,
+    "retention_pct": "21.9"
+  },
+  {
+    "cohort_year": 2007,
+    "year_offset": 2,
+    "active_users": 599,
+    "cohort_total": 4754,
+    "retention_pct": "12.6"
+  },
+  {
+    "cohort_year": 2007,
+    "year_offset": 3,
+    "active_users": 476,
+    "cohort_total": 4754,
+    "retention_pct": "10.0"
+  },
+  {
+    "cohort_year": 2007,
+    "year_offset": 4,
+    "active_users": 352,
+    "cohort_total": 4754,
+    "retention_pct": "7.4"
+  },
+  {
+    "cohort_year": 2007,
+    "year_offset": 5,
+    "active_users": 274,
+    "cohort_total": 4754,
+    "retention_pct": "5.8"
+  },
+  {
+    "cohort_year": 2008,
+    "year_offset": 0,
+    "active_users": 5956,
+    "cohort_total": 5956,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2008,
+    "year_offset": 1,
+    "active_users": 1202,
+    "cohort_total": 5956,
+    "retention_pct": "20.2"
+  },
+  {
+    "cohort_year": 2008,
+    "year_offset": 2,
+    "active_users": 744,
+    "cohort_total": 5956,
+    "retention_pct": "12.5"
+  },
+  {
+    "cohort_year": 2008,
+    "year_offset": 3,
+    "active_users": 543,
+    "cohort_total": 5956,
+    "retention_pct": "9.1"
+  },
+  {
+    "cohort_year": 2008,
+    "year_offset": 4,
+    "active_users": 404,
+    "cohort_total": 5956,
+    "retention_pct": "6.8"
+  },
+  {
+    "cohort_year": 2008,
+    "year_offset": 5,
+    "active_users": 312,
+    "cohort_total": 5956,
+    "retention_pct": "5.2"
+  },
+  {
+    "cohort_year": 2009,
+    "year_offset": 0,
+    "active_users": 4901,
+    "cohort_total": 4901,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2009,
+    "year_offset": 1,
+    "active_users": 909,
+    "cohort_total": 4901,
+    "retention_pct": "18.5"
+  },
+  {
+    "cohort_year": 2009,
+    "year_offset": 2,
+    "active_users": 541,
+    "cohort_total": 4901,
+    "retention_pct": "11.0"
+  },
+  {
+    "cohort_year": 2009,
+    "year_offset": 3,
+    "active_users": 409,
+    "cohort_total": 4901,
+    "retention_pct": "8.3"
+  },
+  {
+    "cohort_year": 2009,
+    "year_offset": 4,
+    "active_users": 296,
+    "cohort_total": 4901,
+    "retention_pct": "6.0"
+  },
+  {
+    "cohort_year": 2009,
+    "year_offset": 5,
+    "active_users": 227,
+    "cohort_total": 4901,
+    "retention_pct": "4.6"
+  },
+  {
+    "cohort_year": 2010,
+    "year_offset": 0,
+    "active_users": 4932,
+    "cohort_total": 4932,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2010,
+    "year_offset": 1,
+    "active_users": 1003,
+    "cohort_total": 4932,
+    "retention_pct": "20.3"
+  },
+  {
+    "cohort_year": 2010,
+    "year_offset": 2,
+    "active_users": 566,
+    "cohort_total": 4932,
+    "retention_pct": "11.5"
+  },
+  {
+    "cohort_year": 2010,
+    "year_offset": 3,
+    "active_users": 407,
+    "cohort_total": 4932,
+    "retention_pct": "8.3"
+  },
+  {
+    "cohort_year": 2010,
+    "year_offset": 4,
+    "active_users": 293,
+    "cohort_total": 4932,
+    "retention_pct": "5.9"
+  },
+  {
+    "cohort_year": 2010,
+    "year_offset": 5,
+    "active_users": 228,
+    "cohort_total": 4932,
+    "retention_pct": "4.6"
+  },
+  {
+    "cohort_year": 2011,
+    "year_offset": 0,
+    "active_users": 4536,
+    "cohort_total": 4536,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2011,
+    "year_offset": 1,
+    "active_users": 753,
+    "cohort_total": 4536,
+    "retention_pct": "16.6"
+  },
+  {
+    "cohort_year": 2011,
+    "year_offset": 2,
+    "active_users": 449,
+    "cohort_total": 4536,
+    "retention_pct": "9.9"
+  },
+  {
+    "cohort_year": 2011,
+    "year_offset": 3,
+    "active_users": 313,
+    "cohort_total": 4536,
+    "retention_pct": "6.9"
+  },
+  {
+    "cohort_year": 2011,
+    "year_offset": 4,
+    "active_users": 264,
+    "cohort_total": 4536,
+    "retention_pct": "5.8"
+  },
+  {
+    "cohort_year": 2011,
+    "year_offset": 5,
+    "active_users": 212,
+    "cohort_total": 4536,
+    "retention_pct": "4.7"
+  },
+  {
+    "cohort_year": 2012,
+    "year_offset": 0,
+    "active_users": 4179,
+    "cohort_total": 4179,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2012,
+    "year_offset": 1,
+    "active_users": 627,
+    "cohort_total": 4179,
+    "retention_pct": "15.0"
+  },
+  {
+    "cohort_year": 2012,
+    "year_offset": 2,
+    "active_users": 338,
+    "cohort_total": 4179,
+    "retention_pct": "8.1"
+  },
+  {
+    "cohort_year": 2012,
+    "year_offset": 3,
+    "active_users": 273,
+    "cohort_total": 4179,
+    "retention_pct": "6.5"
+  },
+  {
+    "cohort_year": 2012,
+    "year_offset": 4,
+    "active_users": 237,
+    "cohort_total": 4179,
+    "retention_pct": "5.7"
+  },
+  {
+    "cohort_year": 2012,
+    "year_offset": 5,
+    "active_users": 186,
+    "cohort_total": 4179,
+    "retention_pct": "4.5"
+  },
+  {
+    "cohort_year": 2013,
+    "year_offset": 0,
+    "active_users": 3821,
+    "cohort_total": 3821,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2013,
+    "year_offset": 1,
+    "active_users": 523,
+    "cohort_total": 3821,
+    "retention_pct": "13.7"
+  },
+  {
+    "cohort_year": 2013,
+    "year_offset": 2,
+    "active_users": 362,
+    "cohort_total": 3821,
+    "retention_pct": "9.5"
+  },
+  {
+    "cohort_year": 2013,
+    "year_offset": 3,
+    "active_users": 272,
+    "cohort_total": 3821,
+    "retention_pct": "7.1"
+  },
+  {
+    "cohort_year": 2013,
+    "year_offset": 4,
+    "active_users": 220,
+    "cohort_total": 3821,
+    "retention_pct": "5.8"
+  },
+  {
+    "cohort_year": 2013,
+    "year_offset": 5,
+    "active_users": 186,
+    "cohort_total": 3821,
+    "retention_pct": "4.9"
+  },
+  {
+    "cohort_year": 2014,
+    "year_offset": 0,
+    "active_users": 3427,
+    "cohort_total": 3427,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2014,
+    "year_offset": 1,
+    "active_users": 587,
+    "cohort_total": 3427,
+    "retention_pct": "17.1"
+  },
+  {
+    "cohort_year": 2014,
+    "year_offset": 2,
+    "active_users": 368,
+    "cohort_total": 3427,
+    "retention_pct": "10.7"
+  },
+  {
+    "cohort_year": 2014,
+    "year_offset": 3,
+    "active_users": 269,
+    "cohort_total": 3427,
+    "retention_pct": "7.8"
+  },
+  {
+    "cohort_year": 2014,
+    "year_offset": 4,
+    "active_users": 204,
+    "cohort_total": 3427,
+    "retention_pct": "6.0"
+  },
+  {
+    "cohort_year": 2014,
+    "year_offset": 5,
+    "active_users": 155,
+    "cohort_total": 3427,
+    "retention_pct": "4.5"
+  },
+  {
+    "cohort_year": 2015,
+    "year_offset": 0,
+    "active_users": 11034,
+    "cohort_total": 11034,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2015,
+    "year_offset": 1,
+    "active_users": 2143,
+    "cohort_total": 11034,
+    "retention_pct": "19.4"
+  },
+  {
+    "cohort_year": 2015,
+    "year_offset": 2,
+    "active_users": 1201,
+    "cohort_total": 11034,
+    "retention_pct": "10.9"
+  },
+  {
+    "cohort_year": 2015,
+    "year_offset": 3,
+    "active_users": 1058,
+    "cohort_total": 11034,
+    "retention_pct": "9.6"
+  },
+  {
+    "cohort_year": 2015,
+    "year_offset": 4,
+    "active_users": 649,
+    "cohort_total": 11034,
+    "retention_pct": "5.9"
+  },
+  {
+    "cohort_year": 2016,
+    "year_offset": 0,
+    "active_users": 9484,
+    "cohort_total": 9484,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2016,
+    "year_offset": 1,
+    "active_users": 1552,
+    "cohort_total": 9484,
+    "retention_pct": "16.4"
+  },
+  {
+    "cohort_year": 2016,
+    "year_offset": 2,
+    "active_users": 1086,
+    "cohort_total": 9484,
+    "retention_pct": "11.5"
+  },
+  {
+    "cohort_year": 2016,
+    "year_offset": 3,
+    "active_users": 658,
+    "cohort_total": 9484,
+    "retention_pct": "6.9"
+  },
+  {
+    "cohort_year": 2017,
+    "year_offset": 0,
+    "active_users": 8352,
+    "cohort_total": 8352,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2017,
+    "year_offset": 1,
+    "active_users": 1636,
+    "cohort_total": 8352,
+    "retention_pct": "19.6"
+  },
+  {
+    "cohort_year": 2017,
+    "year_offset": 2,
+    "active_users": 881,
+    "cohort_total": 8352,
+    "retention_pct": "10.5"
+  },
+  {
+    "cohort_year": 2018,
+    "year_offset": 0,
+    "active_users": 6301,
+    "cohort_total": 6301,
+    "retention_pct": "100.0"
+  },
+  {
+    "cohort_year": 2018,
+    "year_offset": 1,
+    "active_users": 1171,
+    "cohort_total": 6301,
+    "retention_pct": "18.6"
+  },
+  {
+    "cohort_year": 2019,
+    "year_offset": 0,
+    "active_users": 5692,
+    "cohort_total": 5692,
+    "retention_pct": "100.0"
+  }
+]

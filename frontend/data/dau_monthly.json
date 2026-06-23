@@ -1,0 +1,2298 @@
+[
+  {
+    "year": 1995,
+    "month": 1,
+    "year_month": "1995-01",
+    "mau": 1,
+    "total_ratings": 3,
+    "platform_avg_rating": 3.67
+  },
+  {
+    "year": 1996,
+    "month": 1,
+    "year_month": "1996-01",
+    "mau": 6,
+    "total_ratings": 42,
+    "platform_avg_rating": 3.77
+  },
+  {
+    "year": 1996,
+    "month": 2,
+    "year_month": "1996-02",
+    "mau": 37,
+    "total_ratings": 1072,
+    "platform_avg_rating": 3.84
+  },
+  {
+    "year": 1996,
+    "month": 3,
+    "year_month": "1996-03",
+    "mau": 207,
+    "total_ratings": 7498,
+    "platform_avg_rating": 3.94
+  },
+  {
+    "year": 1996,
+    "month": 4,
+    "year_month": "1996-04",
+    "mau": 1147,
+    "total_ratings": 46773,
+    "platform_avg_rating": 3.82
+  },
+  {
+    "year": 1996,
+    "month": 5,
+    "year_month": "1996-05",
+    "mau": 3236,
+    "total_ratings": 166928,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 1996,
+    "month": 6,
+    "year_month": "1996-06",
+    "mau": 4039,
+    "total_ratings": 230239,
+    "platform_avg_rating": 3.57
+  },
+  {
+    "year": 1996,
+    "month": 7,
+    "year_month": "1996-07",
+    "mau": 3868,
+    "total_ratings": 196517,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 1996,
+    "month": 8,
+    "year_month": "1996-08",
+    "mau": 3803,
+    "total_ratings": 194267,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 1996,
+    "month": 9,
+    "year_month": "1996-09",
+    "mau": 2877,
+    "total_ratings": 133472,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 1996,
+    "month": 10,
+    "year_month": "1996-10",
+    "mau": 3526,
+    "total_ratings": 168463,
+    "platform_avg_rating": 3.6
+  },
+  {
+    "year": 1996,
+    "month": 11,
+    "year_month": "1996-11",
+    "mau": 3250,
+    "total_ratings": 162034,
+    "platform_avg_rating": 3.62
+  },
+  {
+    "year": 1996,
+    "month": 12,
+    "year_month": "1996-12",
+    "mau": 2620,
+    "total_ratings": 123386,
+    "platform_avg_rating": 3.61
+  },
+  {
+    "year": 1997,
+    "month": 1,
+    "year_month": "1997-01",
+    "mau": 2268,
+    "total_ratings": 97993,
+    "platform_avg_rating": 3.58
+  },
+  {
+    "year": 1997,
+    "month": 2,
+    "year_month": "1997-02",
+    "mau": 1663,
+    "total_ratings": 61265,
+    "platform_avg_rating": 3.63
+  },
+  {
+    "year": 1997,
+    "month": 3,
+    "year_month": "1997-03",
+    "mau": 2135,
+    "total_ratings": 90147,
+    "platform_avg_rating": 3.62
+  },
+  {
+    "year": 1997,
+    "month": 4,
+    "year_month": "1997-04",
+    "mau": 1806,
+    "total_ratings": 77566,
+    "platform_avg_rating": 3.63
+  },
+  {
+    "year": 1997,
+    "month": 5,
+    "year_month": "1997-05",
+    "mau": 1861,
+    "total_ratings": 84797,
+    "platform_avg_rating": 3.58
+  },
+  {
+    "year": 1997,
+    "month": 6,
+    "year_month": "1997-06",
+    "mau": 1676,
+    "total_ratings": 72309,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 1997,
+    "month": 7,
+    "year_month": "1997-07",
+    "mau": 1243,
+    "total_ratings": 51860,
+    "platform_avg_rating": 3.59
+  },
+  {
+    "year": 1997,
+    "month": 9,
+    "year_month": "1997-09",
+    "mau": 216,
+    "total_ratings": 16656,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 1997,
+    "month": 10,
+    "year_month": "1997-10",
+    "mau": 286,
+    "total_ratings": 19957,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 1997,
+    "month": 11,
+    "year_month": "1997-11",
+    "mau": 454,
+    "total_ratings": 35302,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 1997,
+    "month": 12,
+    "year_month": "1997-12",
+    "mau": 308,
+    "total_ratings": 17804,
+    "platform_avg_rating": 3.47
+  },
+  {
+    "year": 1998,
+    "month": 1,
+    "year_month": "1998-01",
+    "mau": 393,
+    "total_ratings": 21754,
+    "platform_avg_rating": 3.46
+  },
+  {
+    "year": 1998,
+    "month": 2,
+    "year_month": "1998-02",
+    "mau": 269,
+    "total_ratings": 14499,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 1998,
+    "month": 3,
+    "year_month": "1998-03",
+    "mau": 364,
+    "total_ratings": 17835,
+    "platform_avg_rating": 3.44
+  },
+  {
+    "year": 1998,
+    "month": 4,
+    "year_month": "1998-04",
+    "mau": 304,
+    "total_ratings": 16014,
+    "platform_avg_rating": 3.43
+  },
+  {
+    "year": 1998,
+    "month": 5,
+    "year_month": "1998-05",
+    "mau": 1170,
+    "total_ratings": 9198,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 1998,
+    "month": 6,
+    "year_month": "1998-06",
+    "mau": 340,
+    "total_ratings": 13444,
+    "platform_avg_rating": 3.4
+  },
+  {
+    "year": 1998,
+    "month": 7,
+    "year_month": "1998-07",
+    "mau": 751,
+    "total_ratings": 70623,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 1998,
+    "month": 8,
+    "year_month": "1998-08",
+    "mau": 485,
+    "total_ratings": 35485,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 1998,
+    "month": 9,
+    "year_month": "1998-09",
+    "mau": 289,
+    "total_ratings": 18031,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 1998,
+    "month": 10,
+    "year_month": "1998-10",
+    "mau": 247,
+    "total_ratings": 12998,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 1998,
+    "month": 11,
+    "year_month": "1998-11",
+    "mau": 244,
+    "total_ratings": 13080,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 1998,
+    "month": 12,
+    "year_month": "1998-12",
+    "mau": 396,
+    "total_ratings": 29086,
+    "platform_avg_rating": 3.44
+  },
+  {
+    "year": 1999,
+    "month": 1,
+    "year_month": "1999-01",
+    "mau": 340,
+    "total_ratings": 23026,
+    "platform_avg_rating": 3.46
+  },
+  {
+    "year": 1999,
+    "month": 2,
+    "year_month": "1999-02",
+    "mau": 277,
+    "total_ratings": 15924,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 1999,
+    "month": 3,
+    "year_month": "1999-03",
+    "mau": 213,
+    "total_ratings": 7806,
+    "platform_avg_rating": 3.47
+  },
+  {
+    "year": 1999,
+    "month": 4,
+    "year_month": "1999-04",
+    "mau": 231,
+    "total_ratings": 12607,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 1999,
+    "month": 5,
+    "year_month": "1999-05",
+    "mau": 221,
+    "total_ratings": 11804,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 1999,
+    "month": 6,
+    "year_month": "1999-06",
+    "mau": 215,
+    "total_ratings": 10355,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 1999,
+    "month": 7,
+    "year_month": "1999-07",
+    "mau": 222,
+    "total_ratings": 9352,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 1999,
+    "month": 8,
+    "year_month": "1999-08",
+    "mau": 227,
+    "total_ratings": 10200,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 1999,
+    "month": 9,
+    "year_month": "1999-09",
+    "mau": 598,
+    "total_ratings": 34526,
+    "platform_avg_rating": 3.63
+  },
+  {
+    "year": 1999,
+    "month": 10,
+    "year_month": "1999-10",
+    "mau": 2991,
+    "total_ratings": 310288,
+    "platform_avg_rating": 3.68
+  },
+  {
+    "year": 1999,
+    "month": 11,
+    "year_month": "1999-11",
+    "mau": 2351,
+    "total_ratings": 213125,
+    "platform_avg_rating": 3.65
+  },
+  {
+    "year": 1999,
+    "month": 12,
+    "year_month": "1999-12",
+    "mau": 3808,
+    "total_ratings": 400615,
+    "platform_avg_rating": 3.66
+  },
+  {
+    "year": 2000,
+    "month": 1,
+    "year_month": "2000-01",
+    "mau": 2449,
+    "total_ratings": 158361,
+    "platform_avg_rating": 3.64
+  },
+  {
+    "year": 2000,
+    "month": 2,
+    "year_month": "2000-02",
+    "mau": 1914,
+    "total_ratings": 107123,
+    "platform_avg_rating": 3.61
+  },
+  {
+    "year": 2000,
+    "month": 3,
+    "year_month": "2000-03",
+    "mau": 2005,
+    "total_ratings": 133911,
+    "platform_avg_rating": 3.6
+  },
+  {
+    "year": 2000,
+    "month": 4,
+    "year_month": "2000-04",
+    "mau": 2196,
+    "total_ratings": 156626,
+    "platform_avg_rating": 3.65
+  },
+  {
+    "year": 2000,
+    "month": 5,
+    "year_month": "2000-05",
+    "mau": 1699,
+    "total_ratings": 102800,
+    "platform_avg_rating": 3.62
+  },
+  {
+    "year": 2000,
+    "month": 6,
+    "year_month": "2000-06",
+    "mau": 1543,
+    "total_ratings": 81174,
+    "platform_avg_rating": 3.58
+  },
+  {
+    "year": 2000,
+    "month": 7,
+    "year_month": "2000-07",
+    "mau": 1952,
+    "total_ratings": 139658,
+    "platform_avg_rating": 3.59
+  },
+  {
+    "year": 2000,
+    "month": 8,
+    "year_month": "2000-08",
+    "mau": 2330,
+    "total_ratings": 219012,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2000,
+    "month": 9,
+    "year_month": "2000-09",
+    "mau": 1369,
+    "total_ratings": 73477,
+    "platform_avg_rating": 3.57
+  },
+  {
+    "year": 2000,
+    "month": 10,
+    "year_month": "2000-10",
+    "mau": 1288,
+    "total_ratings": 55963,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2000,
+    "month": 11,
+    "year_month": "2000-11",
+    "mau": 3600,
+    "total_ratings": 360535,
+    "platform_avg_rating": 3.61
+  },
+  {
+    "year": 2000,
+    "month": 12,
+    "year_month": "2000-12",
+    "mau": 2259,
+    "total_ratings": 147461,
+    "platform_avg_rating": 3.59
+  },
+  {
+    "year": 2001,
+    "month": 1,
+    "year_month": "2001-01",
+    "mau": 2228,
+    "total_ratings": 121154,
+    "platform_avg_rating": 3.59
+  },
+  {
+    "year": 2001,
+    "month": 2,
+    "year_month": "2001-02",
+    "mau": 1845,
+    "total_ratings": 71780,
+    "platform_avg_rating": 3.57
+  },
+  {
+    "year": 2001,
+    "month": 3,
+    "year_month": "2001-03",
+    "mau": 1599,
+    "total_ratings": 66287,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2001,
+    "month": 4,
+    "year_month": "2001-04",
+    "mau": 1438,
+    "total_ratings": 53936,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2001,
+    "month": 5,
+    "year_month": "2001-05",
+    "mau": 1328,
+    "total_ratings": 48986,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2001,
+    "month": 6,
+    "year_month": "2001-06",
+    "mau": 2141,
+    "total_ratings": 148562,
+    "platform_avg_rating": 3.57
+  },
+  {
+    "year": 2001,
+    "month": 7,
+    "year_month": "2001-07",
+    "mau": 2153,
+    "total_ratings": 139032,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2001,
+    "month": 8,
+    "year_month": "2001-08",
+    "mau": 1860,
+    "total_ratings": 95673,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2001,
+    "month": 9,
+    "year_month": "2001-09",
+    "mau": 1653,
+    "total_ratings": 84618,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2001,
+    "month": 10,
+    "year_month": "2001-10",
+    "mau": 1661,
+    "total_ratings": 66221,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2001,
+    "month": 11,
+    "year_month": "2001-11",
+    "mau": 1831,
+    "total_ratings": 83394,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2001,
+    "month": 12,
+    "year_month": "2001-12",
+    "mau": 1793,
+    "total_ratings": 79387,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2002,
+    "month": 1,
+    "year_month": "2002-01",
+    "mau": 2059,
+    "total_ratings": 87325,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2002,
+    "month": 2,
+    "year_month": "2002-02",
+    "mau": 1733,
+    "total_ratings": 71279,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2002,
+    "month": 3,
+    "year_month": "2002-03",
+    "mau": 1632,
+    "total_ratings": 58733,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2002,
+    "month": 4,
+    "year_month": "2002-04",
+    "mau": 1693,
+    "total_ratings": 81172,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2002,
+    "month": 5,
+    "year_month": "2002-05",
+    "mau": 1526,
+    "total_ratings": 58366,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2002,
+    "month": 6,
+    "year_month": "2002-06",
+    "mau": 1491,
+    "total_ratings": 53610,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2002,
+    "month": 7,
+    "year_month": "2002-07",
+    "mau": 1578,
+    "total_ratings": 56971,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2002,
+    "month": 8,
+    "year_month": "2002-08",
+    "mau": 1563,
+    "total_ratings": 66264,
+    "platform_avg_rating": 3.46
+  },
+  {
+    "year": 2002,
+    "month": 9,
+    "year_month": "2002-09",
+    "mau": 1451,
+    "total_ratings": 51028,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2002,
+    "month": 10,
+    "year_month": "2002-10",
+    "mau": 1460,
+    "total_ratings": 52499,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 2002,
+    "month": 11,
+    "year_month": "2002-11",
+    "mau": 1574,
+    "total_ratings": 64739,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2002,
+    "month": 12,
+    "year_month": "2002-12",
+    "mau": 1608,
+    "total_ratings": 73950,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2003,
+    "month": 1,
+    "year_month": "2003-01",
+    "mau": 2080,
+    "total_ratings": 100119,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2003,
+    "month": 2,
+    "year_month": "2003-02",
+    "mau": 1806,
+    "total_ratings": 81649,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2003,
+    "month": 3,
+    "year_month": "2003-03",
+    "mau": 1867,
+    "total_ratings": 86114,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2003,
+    "month": 4,
+    "year_month": "2003-04",
+    "mau": 1605,
+    "total_ratings": 62463,
+    "platform_avg_rating": 3.47
+  },
+  {
+    "year": 2003,
+    "month": 5,
+    "year_month": "2003-05",
+    "mau": 1634,
+    "total_ratings": 79302,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2003,
+    "month": 6,
+    "year_month": "2003-06",
+    "mau": 1595,
+    "total_ratings": 76345,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2003,
+    "month": 7,
+    "year_month": "2003-07",
+    "mau": 1788,
+    "total_ratings": 84615,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2003,
+    "month": 8,
+    "year_month": "2003-08",
+    "mau": 1651,
+    "total_ratings": 72427,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2003,
+    "month": 9,
+    "year_month": "2003-09",
+    "mau": 1650,
+    "total_ratings": 67719,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2003,
+    "month": 10,
+    "year_month": "2003-10",
+    "mau": 1638,
+    "total_ratings": 67356,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2003,
+    "month": 11,
+    "year_month": "2003-11",
+    "mau": 1712,
+    "total_ratings": 72925,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2003,
+    "month": 12,
+    "year_month": "2003-12",
+    "mau": 1736,
+    "total_ratings": 69746,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2004,
+    "month": 1,
+    "year_month": "2004-01",
+    "mau": 1962,
+    "total_ratings": 87571,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2004,
+    "month": 2,
+    "year_month": "2004-02",
+    "mau": 2188,
+    "total_ratings": 115969,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2004,
+    "month": 3,
+    "year_month": "2004-03",
+    "mau": 1979,
+    "total_ratings": 100703,
+    "platform_avg_rating": 3.47
+  },
+  {
+    "year": 2004,
+    "month": 4,
+    "year_month": "2004-04",
+    "mau": 1670,
+    "total_ratings": 75692,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2004,
+    "month": 5,
+    "year_month": "2004-05",
+    "mau": 1728,
+    "total_ratings": 88467,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2004,
+    "month": 6,
+    "year_month": "2004-06",
+    "mau": 1734,
+    "total_ratings": 80291,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2004,
+    "month": 7,
+    "year_month": "2004-07",
+    "mau": 1757,
+    "total_ratings": 83440,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2004,
+    "month": 8,
+    "year_month": "2004-08",
+    "mau": 1807,
+    "total_ratings": 96232,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2004,
+    "month": 9,
+    "year_month": "2004-09",
+    "mau": 1752,
+    "total_ratings": 86541,
+    "platform_avg_rating": 3.47
+  },
+  {
+    "year": 2004,
+    "month": 10,
+    "year_month": "2004-10",
+    "mau": 1743,
+    "total_ratings": 78126,
+    "platform_avg_rating": 3.47
+  },
+  {
+    "year": 2004,
+    "month": 11,
+    "year_month": "2004-11",
+    "mau": 1897,
+    "total_ratings": 81791,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2004,
+    "month": 12,
+    "year_month": "2004-12",
+    "mau": 1757,
+    "total_ratings": 73576,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2005,
+    "month": 1,
+    "year_month": "2005-01",
+    "mau": 2194,
+    "total_ratings": 128713,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 2005,
+    "month": 2,
+    "year_month": "2005-02",
+    "mau": 2007,
+    "total_ratings": 121200,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2005,
+    "month": 3,
+    "year_month": "2005-03",
+    "mau": 3479,
+    "total_ratings": 320986,
+    "platform_avg_rating": 3.45
+  },
+  {
+    "year": 2005,
+    "month": 4,
+    "year_month": "2005-04",
+    "mau": 2621,
+    "total_ratings": 185942,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2005,
+    "month": 5,
+    "year_month": "2005-05",
+    "mau": 2425,
+    "total_ratings": 143056,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 2005,
+    "month": 6,
+    "year_month": "2005-06",
+    "mau": 2476,
+    "total_ratings": 131041,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2005,
+    "month": 7,
+    "year_month": "2005-07",
+    "mau": 2346,
+    "total_ratings": 113871,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2005,
+    "month": 8,
+    "year_month": "2005-08",
+    "mau": 2142,
+    "total_ratings": 90003,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2005,
+    "month": 9,
+    "year_month": "2005-09",
+    "mau": 2059,
+    "total_ratings": 98547,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 2005,
+    "month": 10,
+    "year_month": "2005-10",
+    "mau": 2127,
+    "total_ratings": 91692,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2005,
+    "month": 11,
+    "year_month": "2005-11",
+    "mau": 2126,
+    "total_ratings": 100162,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2005,
+    "month": 12,
+    "year_month": "2005-12",
+    "mau": 2192,
+    "total_ratings": 87962,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2006,
+    "month": 1,
+    "year_month": "2006-01",
+    "mau": 2400,
+    "total_ratings": 113599,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2006,
+    "month": 2,
+    "year_month": "2006-02",
+    "mau": 2202,
+    "total_ratings": 86782,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2006,
+    "month": 3,
+    "year_month": "2006-03",
+    "mau": 2215,
+    "total_ratings": 103322,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2006,
+    "month": 4,
+    "year_month": "2006-04",
+    "mau": 2120,
+    "total_ratings": 94975,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2006,
+    "month": 5,
+    "year_month": "2006-05",
+    "mau": 1970,
+    "total_ratings": 76627,
+    "platform_avg_rating": 3.47
+  },
+  {
+    "year": 2006,
+    "month": 6,
+    "year_month": "2006-06",
+    "mau": 1906,
+    "total_ratings": 77353,
+    "platform_avg_rating": 3.43
+  },
+  {
+    "year": 2006,
+    "month": 7,
+    "year_month": "2006-07",
+    "mau": 2046,
+    "total_ratings": 93583,
+    "platform_avg_rating": 3.47
+  },
+  {
+    "year": 2006,
+    "month": 8,
+    "year_month": "2006-08",
+    "mau": 1995,
+    "total_ratings": 71493,
+    "platform_avg_rating": 3.45
+  },
+  {
+    "year": 2006,
+    "month": 9,
+    "year_month": "2006-09",
+    "mau": 1895,
+    "total_ratings": 68845,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 2006,
+    "month": 10,
+    "year_month": "2006-10",
+    "mau": 1996,
+    "total_ratings": 80171,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2006,
+    "month": 11,
+    "year_month": "2006-11",
+    "mau": 1944,
+    "total_ratings": 71700,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2006,
+    "month": 12,
+    "year_month": "2006-12",
+    "mau": 2390,
+    "total_ratings": 99576,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 2007,
+    "month": 1,
+    "year_month": "2007-01",
+    "mau": 2310,
+    "total_ratings": 106668,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2007,
+    "month": 2,
+    "year_month": "2007-02",
+    "mau": 2156,
+    "total_ratings": 94805,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2007,
+    "month": 3,
+    "year_month": "2007-03",
+    "mau": 2121,
+    "total_ratings": 87899,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2007,
+    "month": 4,
+    "year_month": "2007-04",
+    "mau": 1994,
+    "total_ratings": 73017,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2007,
+    "month": 5,
+    "year_month": "2007-05",
+    "mau": 2010,
+    "total_ratings": 71728,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2007,
+    "month": 6,
+    "year_month": "2007-06",
+    "mau": 2030,
+    "total_ratings": 86146,
+    "platform_avg_rating": 3.45
+  },
+  {
+    "year": 2007,
+    "month": 7,
+    "year_month": "2007-07",
+    "mau": 1993,
+    "total_ratings": 81706,
+    "platform_avg_rating": 3.47
+  },
+  {
+    "year": 2007,
+    "month": 8,
+    "year_month": "2007-08",
+    "mau": 1742,
+    "total_ratings": 53007,
+    "platform_avg_rating": 3.47
+  },
+  {
+    "year": 2007,
+    "month": 9,
+    "year_month": "2007-09",
+    "mau": 1683,
+    "total_ratings": 53226,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2007,
+    "month": 10,
+    "year_month": "2007-10",
+    "mau": 1710,
+    "total_ratings": 71397,
+    "platform_avg_rating": 3.47
+  },
+  {
+    "year": 2007,
+    "month": 11,
+    "year_month": "2007-11",
+    "mau": 1820,
+    "total_ratings": 72739,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2007,
+    "month": 12,
+    "year_month": "2007-12",
+    "mau": 1910,
+    "total_ratings": 79096,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2008,
+    "month": 1,
+    "year_month": "2008-01",
+    "mau": 2253,
+    "total_ratings": 93762,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2008,
+    "month": 2,
+    "year_month": "2008-02",
+    "mau": 2008,
+    "total_ratings": 76495,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2008,
+    "month": 3,
+    "year_month": "2008-03",
+    "mau": 2207,
+    "total_ratings": 72922,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2008,
+    "month": 4,
+    "year_month": "2008-04",
+    "mau": 1847,
+    "total_ratings": 63142,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 2008,
+    "month": 5,
+    "year_month": "2008-05",
+    "mau": 1832,
+    "total_ratings": 59323,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2008,
+    "month": 6,
+    "year_month": "2008-06",
+    "mau": 1842,
+    "total_ratings": 69637,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 2008,
+    "month": 7,
+    "year_month": "2008-07",
+    "mau": 2012,
+    "total_ratings": 85462,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2008,
+    "month": 8,
+    "year_month": "2008-08",
+    "mau": 2155,
+    "total_ratings": 79341,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2008,
+    "month": 9,
+    "year_month": "2008-09",
+    "mau": 1836,
+    "total_ratings": 66926,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2008,
+    "month": 10,
+    "year_month": "2008-10",
+    "mau": 2601,
+    "total_ratings": 145461,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2008,
+    "month": 11,
+    "year_month": "2008-11",
+    "mau": 2459,
+    "total_ratings": 123737,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2008,
+    "month": 12,
+    "year_month": "2008-12",
+    "mau": 2181,
+    "total_ratings": 82418,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2009,
+    "month": 1,
+    "year_month": "2009-01",
+    "mau": 2517,
+    "total_ratings": 99506,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2009,
+    "month": 2,
+    "year_month": "2009-02",
+    "mau": 2045,
+    "total_ratings": 71464,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2009,
+    "month": 3,
+    "year_month": "2009-03",
+    "mau": 2209,
+    "total_ratings": 87555,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2009,
+    "month": 4,
+    "year_month": "2009-04",
+    "mau": 2015,
+    "total_ratings": 69530,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2009,
+    "month": 5,
+    "year_month": "2009-05",
+    "mau": 2069,
+    "total_ratings": 67450,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2009,
+    "month": 6,
+    "year_month": "2009-06",
+    "mau": 2024,
+    "total_ratings": 62939,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 2009,
+    "month": 7,
+    "year_month": "2009-07",
+    "mau": 2017,
+    "total_ratings": 62579,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2009,
+    "month": 8,
+    "year_month": "2009-08",
+    "mau": 1966,
+    "total_ratings": 62145,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2009,
+    "month": 9,
+    "year_month": "2009-09",
+    "mau": 1906,
+    "total_ratings": 56036,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2009,
+    "month": 10,
+    "year_month": "2009-10",
+    "mau": 1872,
+    "total_ratings": 57262,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2009,
+    "month": 11,
+    "year_month": "2009-11",
+    "mau": 1868,
+    "total_ratings": 54533,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 2009,
+    "month": 12,
+    "year_month": "2009-12",
+    "mau": 1930,
+    "total_ratings": 58301,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2010,
+    "month": 1,
+    "year_month": "2010-01",
+    "mau": 2208,
+    "total_ratings": 74141,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2010,
+    "month": 2,
+    "year_month": "2010-02",
+    "mau": 1907,
+    "total_ratings": 57565,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2010,
+    "month": 3,
+    "year_month": "2010-03",
+    "mau": 2029,
+    "total_ratings": 61980,
+    "platform_avg_rating": 3.47
+  },
+  {
+    "year": 2010,
+    "month": 4,
+    "year_month": "2010-04",
+    "mau": 1915,
+    "total_ratings": 54407,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2010,
+    "month": 5,
+    "year_month": "2010-05",
+    "mau": 1896,
+    "total_ratings": 54326,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2010,
+    "month": 6,
+    "year_month": "2010-06",
+    "mau": 1794,
+    "total_ratings": 57400,
+    "platform_avg_rating": 3.48
+  },
+  {
+    "year": 2010,
+    "month": 7,
+    "year_month": "2010-07",
+    "mau": 1983,
+    "total_ratings": 66246,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2010,
+    "month": 8,
+    "year_month": "2010-08",
+    "mau": 2075,
+    "total_ratings": 75365,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2010,
+    "month": 9,
+    "year_month": "2010-09",
+    "mau": 2196,
+    "total_ratings": 84822,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2010,
+    "month": 10,
+    "year_month": "2010-10",
+    "mau": 2057,
+    "total_ratings": 76236,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2010,
+    "month": 11,
+    "year_month": "2010-11",
+    "mau": 2086,
+    "total_ratings": 67150,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2010,
+    "month": 12,
+    "year_month": "2010-12",
+    "mau": 2137,
+    "total_ratings": 62506,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2011,
+    "month": 1,
+    "year_month": "2011-01",
+    "mau": 2310,
+    "total_ratings": 74414,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2011,
+    "month": 2,
+    "year_month": "2011-02",
+    "mau": 2063,
+    "total_ratings": 55698,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2011,
+    "month": 3,
+    "year_month": "2011-03",
+    "mau": 2225,
+    "total_ratings": 64954,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2011,
+    "month": 4,
+    "year_month": "2011-04",
+    "mau": 2030,
+    "total_ratings": 69154,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2011,
+    "month": 5,
+    "year_month": "2011-05",
+    "mau": 2016,
+    "total_ratings": 63036,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2011,
+    "month": 6,
+    "year_month": "2011-06",
+    "mau": 1929,
+    "total_ratings": 55109,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2011,
+    "month": 7,
+    "year_month": "2011-07",
+    "mau": 1940,
+    "total_ratings": 56130,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 2011,
+    "month": 8,
+    "year_month": "2011-08",
+    "mau": 1979,
+    "total_ratings": 51913,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2011,
+    "month": 9,
+    "year_month": "2011-09",
+    "mau": 1754,
+    "total_ratings": 45438,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2011,
+    "month": 10,
+    "year_month": "2011-10",
+    "mau": 1795,
+    "total_ratings": 46819,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2011,
+    "month": 11,
+    "year_month": "2011-11",
+    "mau": 1774,
+    "total_ratings": 48099,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2011,
+    "month": 12,
+    "year_month": "2011-12",
+    "mau": 1863,
+    "total_ratings": 46005,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2012,
+    "month": 1,
+    "year_month": "2012-01",
+    "mau": 1738,
+    "total_ratings": 45495,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2012,
+    "month": 2,
+    "year_month": "2012-02",
+    "mau": 1817,
+    "total_ratings": 54710,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2012,
+    "month": 3,
+    "year_month": "2012-03",
+    "mau": 1800,
+    "total_ratings": 53045,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2012,
+    "month": 4,
+    "year_month": "2012-04",
+    "mau": 1767,
+    "total_ratings": 54910,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2012,
+    "month": 5,
+    "year_month": "2012-05",
+    "mau": 2062,
+    "total_ratings": 78061,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2012,
+    "month": 6,
+    "year_month": "2012-06",
+    "mau": 1738,
+    "total_ratings": 48200,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2012,
+    "month": 7,
+    "year_month": "2012-07",
+    "mau": 1747,
+    "total_ratings": 51235,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2012,
+    "month": 8,
+    "year_month": "2012-08",
+    "mau": 1650,
+    "total_ratings": 45682,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2012,
+    "month": 9,
+    "year_month": "2012-09",
+    "mau": 1591,
+    "total_ratings": 47170,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2012,
+    "month": 10,
+    "year_month": "2012-10",
+    "mau": 1669,
+    "total_ratings": 50364,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2012,
+    "month": 11,
+    "year_month": "2012-11",
+    "mau": 1740,
+    "total_ratings": 51213,
+    "platform_avg_rating": 3.57
+  },
+  {
+    "year": 2012,
+    "month": 12,
+    "year_month": "2012-12",
+    "mau": 1781,
+    "total_ratings": 55627,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2013,
+    "month": 1,
+    "year_month": "2013-01",
+    "mau": 1816,
+    "total_ratings": 54274,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2013,
+    "month": 2,
+    "year_month": "2013-02",
+    "mau": 1597,
+    "total_ratings": 44409,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2013,
+    "month": 3,
+    "year_month": "2013-03",
+    "mau": 1674,
+    "total_ratings": 43142,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2013,
+    "month": 4,
+    "year_month": "2013-04",
+    "mau": 1580,
+    "total_ratings": 46403,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2013,
+    "month": 5,
+    "year_month": "2013-05",
+    "mau": 1604,
+    "total_ratings": 45391,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2013,
+    "month": 6,
+    "year_month": "2013-06",
+    "mau": 1522,
+    "total_ratings": 41746,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2013,
+    "month": 7,
+    "year_month": "2013-07",
+    "mau": 1561,
+    "total_ratings": 41688,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2013,
+    "month": 8,
+    "year_month": "2013-08",
+    "mau": 1471,
+    "total_ratings": 36581,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2013,
+    "month": 9,
+    "year_month": "2013-09",
+    "mau": 1721,
+    "total_ratings": 56390,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2013,
+    "month": 10,
+    "year_month": "2013-10",
+    "mau": 1483,
+    "total_ratings": 32986,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2013,
+    "month": 11,
+    "year_month": "2013-11",
+    "mau": 1476,
+    "total_ratings": 33888,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2013,
+    "month": 12,
+    "year_month": "2013-12",
+    "mau": 1575,
+    "total_ratings": 38139,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2014,
+    "month": 1,
+    "year_month": "2014-01",
+    "mau": 1643,
+    "total_ratings": 39348,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2014,
+    "month": 2,
+    "year_month": "2014-02",
+    "mau": 1456,
+    "total_ratings": 36576,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2014,
+    "month": 3,
+    "year_month": "2014-03",
+    "mau": 1430,
+    "total_ratings": 35619,
+    "platform_avg_rating": 3.57
+  },
+  {
+    "year": 2014,
+    "month": 4,
+    "year_month": "2014-04",
+    "mau": 1372,
+    "total_ratings": 34502,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2014,
+    "month": 5,
+    "year_month": "2014-05",
+    "mau": 1455,
+    "total_ratings": 35629,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2014,
+    "month": 6,
+    "year_month": "2014-06",
+    "mau": 1254,
+    "total_ratings": 33315,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2014,
+    "month": 7,
+    "year_month": "2014-07",
+    "mau": 1315,
+    "total_ratings": 35307,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2014,
+    "month": 8,
+    "year_month": "2014-08",
+    "mau": 1397,
+    "total_ratings": 33808,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2014,
+    "month": 9,
+    "year_month": "2014-09",
+    "mau": 1210,
+    "total_ratings": 25555,
+    "platform_avg_rating": 3.47
+  },
+  {
+    "year": 2014,
+    "month": 10,
+    "year_month": "2014-10",
+    "mau": 1284,
+    "total_ratings": 34073,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2014,
+    "month": 11,
+    "year_month": "2014-11",
+    "mau": 1675,
+    "total_ratings": 68597,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2014,
+    "month": 12,
+    "year_month": "2014-12",
+    "mau": 1652,
+    "total_ratings": 66195,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2015,
+    "month": 1,
+    "year_month": "2015-01",
+    "mau": 1873,
+    "total_ratings": 92894,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2015,
+    "month": 2,
+    "year_month": "2015-02",
+    "mau": 1746,
+    "total_ratings": 75217,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2015,
+    "month": 3,
+    "year_month": "2015-03",
+    "mau": 1848,
+    "total_ratings": 78205,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2015,
+    "month": 4,
+    "year_month": "2015-04",
+    "mau": 1976,
+    "total_ratings": 85682,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2015,
+    "month": 5,
+    "year_month": "2015-05",
+    "mau": 2022,
+    "total_ratings": 95605,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2015,
+    "month": 6,
+    "year_month": "2015-06",
+    "mau": 1973,
+    "total_ratings": 98926,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2015,
+    "month": 7,
+    "year_month": "2015-07",
+    "mau": 2482,
+    "total_ratings": 156962,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2015,
+    "month": 8,
+    "year_month": "2015-08",
+    "mau": 3103,
+    "total_ratings": 189934,
+    "platform_avg_rating": 3.6
+  },
+  {
+    "year": 2015,
+    "month": 9,
+    "year_month": "2015-09",
+    "mau": 2610,
+    "total_ratings": 143322,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2015,
+    "month": 10,
+    "year_month": "2015-10",
+    "mau": 2891,
+    "total_ratings": 167353,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2015,
+    "month": 11,
+    "year_month": "2015-11",
+    "mau": 3753,
+    "total_ratings": 262132,
+    "platform_avg_rating": 3.64
+  },
+  {
+    "year": 2015,
+    "month": 12,
+    "year_month": "2015-12",
+    "mau": 3080,
+    "total_ratings": 159652,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2016,
+    "month": 1,
+    "year_month": "2016-01",
+    "mau": 3258,
+    "total_ratings": 170506,
+    "platform_avg_rating": 3.57
+  },
+  {
+    "year": 2016,
+    "month": 2,
+    "year_month": "2016-02",
+    "mau": 3019,
+    "total_ratings": 163916,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2016,
+    "month": 3,
+    "year_month": "2016-03",
+    "mau": 2966,
+    "total_ratings": 156129,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2016,
+    "month": 4,
+    "year_month": "2016-04",
+    "mau": 2876,
+    "total_ratings": 160484,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2016,
+    "month": 5,
+    "year_month": "2016-05",
+    "mau": 3005,
+    "total_ratings": 187893,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2016,
+    "month": 6,
+    "year_month": "2016-06",
+    "mau": 2674,
+    "total_ratings": 146912,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2016,
+    "month": 7,
+    "year_month": "2016-07",
+    "mau": 2849,
+    "total_ratings": 140280,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2016,
+    "month": 8,
+    "year_month": "2016-08",
+    "mau": 2708,
+    "total_ratings": 141899,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2016,
+    "month": 9,
+    "year_month": "2016-09",
+    "mau": 2618,
+    "total_ratings": 121358,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2016,
+    "month": 10,
+    "year_month": "2016-10",
+    "mau": 2629,
+    "total_ratings": 119839,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2016,
+    "month": 11,
+    "year_month": "2016-11",
+    "mau": 2487,
+    "total_ratings": 115981,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2016,
+    "month": 12,
+    "year_month": "2016-12",
+    "mau": 2793,
+    "total_ratings": 132104,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2017,
+    "month": 1,
+    "year_month": "2017-01",
+    "mau": 3175,
+    "total_ratings": 173267,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2017,
+    "month": 2,
+    "year_month": "2017-02",
+    "mau": 3014,
+    "total_ratings": 158345,
+    "platform_avg_rating": 3.59
+  },
+  {
+    "year": 2017,
+    "month": 3,
+    "year_month": "2017-03",
+    "mau": 2958,
+    "total_ratings": 155237,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2017,
+    "month": 4,
+    "year_month": "2017-04",
+    "mau": 2868,
+    "total_ratings": 131340,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2017,
+    "month": 5,
+    "year_month": "2017-05",
+    "mau": 2912,
+    "total_ratings": 170680,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2017,
+    "month": 6,
+    "year_month": "2017-06",
+    "mau": 2590,
+    "total_ratings": 128499,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2017,
+    "month": 7,
+    "year_month": "2017-07",
+    "mau": 2975,
+    "total_ratings": 158612,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2017,
+    "month": 8,
+    "year_month": "2017-08",
+    "mau": 2821,
+    "total_ratings": 121946,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2017,
+    "month": 9,
+    "year_month": "2017-09",
+    "mau": 2818,
+    "total_ratings": 132492,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2017,
+    "month": 10,
+    "year_month": "2017-10",
+    "mau": 2900,
+    "total_ratings": 129493,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2017,
+    "month": 11,
+    "year_month": "2017-11",
+    "mau": 2680,
+    "total_ratings": 111926,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2017,
+    "month": 12,
+    "year_month": "2017-12",
+    "mau": 2815,
+    "total_ratings": 117997,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2018,
+    "month": 1,
+    "year_month": "2018-01",
+    "mau": 2766,
+    "total_ratings": 108057,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2018,
+    "month": 2,
+    "year_month": "2018-02",
+    "mau": 2662,
+    "total_ratings": 94217,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2018,
+    "month": 3,
+    "year_month": "2018-03",
+    "mau": 3318,
+    "total_ratings": 128849,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2018,
+    "month": 4,
+    "year_month": "2018-04",
+    "mau": 2816,
+    "total_ratings": 98681,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2018,
+    "month": 5,
+    "year_month": "2018-05",
+    "mau": 2528,
+    "total_ratings": 92088,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2018,
+    "month": 6,
+    "year_month": "2018-06",
+    "mau": 2488,
+    "total_ratings": 89038,
+    "platform_avg_rating": 3.49
+  },
+  {
+    "year": 2018,
+    "month": 7,
+    "year_month": "2018-07",
+    "mau": 2602,
+    "total_ratings": 109518,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2018,
+    "month": 8,
+    "year_month": "2018-08",
+    "mau": 2602,
+    "total_ratings": 112099,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2018,
+    "month": 9,
+    "year_month": "2018-09",
+    "mau": 2518,
+    "total_ratings": 108263,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2018,
+    "month": 10,
+    "year_month": "2018-10",
+    "mau": 2584,
+    "total_ratings": 110859,
+    "platform_avg_rating": 3.5
+  },
+  {
+    "year": 2018,
+    "month": 11,
+    "year_month": "2018-11",
+    "mau": 2755,
+    "total_ratings": 116606,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2018,
+    "month": 12,
+    "year_month": "2018-12",
+    "mau": 2978,
+    "total_ratings": 141960,
+    "platform_avg_rating": 3.56
+  },
+  {
+    "year": 2019,
+    "month": 1,
+    "year_month": "2019-01",
+    "mau": 3089,
+    "total_ratings": 147607,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2019,
+    "month": 2,
+    "year_month": "2019-02",
+    "mau": 2719,
+    "total_ratings": 113242,
+    "platform_avg_rating": 3.55
+  },
+  {
+    "year": 2019,
+    "month": 3,
+    "year_month": "2019-03",
+    "mau": 2742,
+    "total_ratings": 123622,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2019,
+    "month": 4,
+    "year_month": "2019-04",
+    "mau": 2462,
+    "total_ratings": 111776,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2019,
+    "month": 5,
+    "year_month": "2019-05",
+    "mau": 2534,
+    "total_ratings": 123866,
+    "platform_avg_rating": 3.53
+  },
+  {
+    "year": 2019,
+    "month": 6,
+    "year_month": "2019-06",
+    "mau": 2326,
+    "total_ratings": 85500,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2019,
+    "month": 7,
+    "year_month": "2019-07",
+    "mau": 2471,
+    "total_ratings": 99221,
+    "platform_avg_rating": 3.51
+  },
+  {
+    "year": 2019,
+    "month": 8,
+    "year_month": "2019-08",
+    "mau": 2556,
+    "total_ratings": 108885,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2019,
+    "month": 9,
+    "year_month": "2019-09",
+    "mau": 2607,
+    "total_ratings": 124346,
+    "platform_avg_rating": 3.54
+  },
+  {
+    "year": 2019,
+    "month": 10,
+    "year_month": "2019-10",
+    "mau": 2479,
+    "total_ratings": 96127,
+    "platform_avg_rating": 3.52
+  },
+  {
+    "year": 2019,
+    "month": 11,
+    "year_month": "2019-11",
+    "mau": 1981,
+    "total_ratings": 65631,
+    "platform_avg_rating": 3.55
+  }
+]

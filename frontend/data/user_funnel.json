@@ -1,0 +1,44 @@
+[
+  {
+    "stage": "1_注册用户",
+    "step": 1,
+    "user_count": 162541,
+    "overall_pct": "100.00",
+    "step_conv_rate": null
+  },
+  {
+    "stage": "2_打过 ≥10 部",
+    "step": 2,
+    "user_count": 162541,
+    "overall_pct": "100.00",
+    "step_conv_rate": "100.00"
+  },
+  {
+    "stage": "3_打过 ≥50 部",
+    "step": 3,
+    "user_count": 102492,
+    "overall_pct": "63.06",
+    "step_conv_rate": "63.06"
+  },
+  {
+    "stage": "4_打过 ≥100 部",
+    "step": 4,
+    "user_count": 63892,
+    "overall_pct": "39.31",
+    "step_conv_rate": "62.34"
+  },
+  {
+    "stage": "5_打过 ≥500 部",
+    "step": 5,
+    "user_count": 9713,
+    "overall_pct": "5.98",
+    "step_conv_rate": "15.20"
+  },
+  {
+    "stage": "6_打过 ≥1000 部",
+    "step": 6,
+    "user_count": 2675,
+    "overall_pct": "1.65",
+    "step_conv_rate": "27.54"
+  }
+]

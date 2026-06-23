@@ -1,0 +1,1118 @@
+[
+  {
+    "era": "经典时代",
+    "genre": "Thriller",
+    "rating_count": 306472,
+    "unique_users": 61140,
+    "unique_movies": 925,
+    "avg_rating": 3.78,
+    "positive_pct": "60.37615181811063"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Family",
+    "rating_count": 378788,
+    "unique_users": 69841,
+    "unique_movies": 573,
+    "avg_rating": 3.46,
+    "positive_pct": "46.67043306546142"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Romance",
+    "rating_count": 312638,
+    "unique_users": 63555,
+    "unique_movies": 1378,
+    "avg_rating": 3.79,
+    "positive_pct": "60.95868064662645"
+  },
+  {
+    "era": "当代",
+    "genre": "Drama",
+    "rating_count": 1204940,
+    "unique_users": 55140,
+    "unique_movies": 9459,
+    "avg_rating": 3.63,
+    "positive_pct": "51.26064368350291"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Fantasy",
+    "rating_count": 189945,
+    "unique_users": 86621,
+    "unique_movies": 442,
+    "avg_rating": 3.84,
+    "positive_pct": "63.37202874516307"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Biography",
+    "rating_count": 121302,
+    "unique_users": 45287,
+    "unique_movies": 325,
+    "avg_rating": 3.9,
+    "positive_pct": "66.07640434617731"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Sport",
+    "rating_count": 42114,
+    "unique_users": 24500,
+    "unique_movies": 112,
+    "avg_rating": 3.61,
+    "positive_pct": "52.97288312675120"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Film-Noir",
+    "rating_count": 66055,
+    "unique_users": 21105,
+    "unique_movies": 299,
+    "avg_rating": 4.01,
+    "positive_pct": "71.10438271137688"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "News",
+    "rating_count": 2153,
+    "unique_users": 1979,
+    "unique_movies": 9,
+    "avg_rating": 3.79,
+    "positive_pct": "60.05573618207153"
+  },
+  {
+    "era": "当代",
+    "genre": "Reality-TV",
+    "rating_count": 5,
+    "unique_users": 5,
+    "unique_movies": 1,
+    "avg_rating": 2.8,
+    "positive_pct": "0E-14"
+  },
+  {
+    "era": "当代",
+    "genre": "(no genres listed)",
+    "rating_count": 4,
+    "unique_users": 4,
+    "unique_movies": 4,
+    "avg_rating": 3.63,
+    "positive_pct": "25.00000000000000"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Adventure",
+    "rating_count": 3100063,
+    "unique_users": 154522,
+    "unique_movies": 1090,
+    "avg_rating": 3.43,
+    "positive_pct": "46.10383724459793"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Fantasy",
+    "rating_count": 1196702,
+    "unique_users": 143715,
+    "unique_movies": 712,
+    "avg_rating": 3.44,
+    "positive_pct": "46.16746692158950"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Adventure",
+    "rating_count": 2001190,
+    "unique_users": 108766,
+    "unique_movies": 977,
+    "avg_rating": 3.47,
+    "positive_pct": "46.77791713930212"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Fantasy",
+    "rating_count": 836470,
+    "unique_users": 92774,
+    "unique_movies": 600,
+    "avg_rating": 3.5,
+    "positive_pct": "48.25660214950925"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Romance",
+    "rating_count": 992639,
+    "unique_users": 91398,
+    "unique_movies": 1914,
+    "avg_rating": 3.41,
+    "positive_pct": "43.66088779505943"
+  },
+  {
+    "era": "当代",
+    "genre": "Comedy",
+    "rating_count": 766969,
+    "unique_users": 51344,
+    "unique_movies": 5412,
+    "avg_rating": 3.48,
+    "positive_pct": "45.10495209063209"
+  },
+  {
+    "era": "当代",
+    "genre": "Crime",
+    "rating_count": 374275,
+    "unique_users": 42859,
+    "unique_movies": 2192,
+    "avg_rating": 3.54,
+    "positive_pct": "46.90615189366108"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Family",
+    "rating_count": 779206,
+    "unique_users": 120587,
+    "unique_movies": 565,
+    "avg_rating": 3.24,
+    "positive_pct": "39.04243550486008"
+  },
+  {
+    "era": "当代",
+    "genre": "Music",
+    "rating_count": 51368,
+    "unique_users": 20406,
+    "unique_movies": 622,
+    "avg_rating": 3.64,
+    "positive_pct": "52.89285158075066"
+  },
+  {
+    "era": "当代",
+    "genre": "Family",
+    "rating_count": 95199,
+    "unique_users": 26531,
+    "unique_movies": 883,
+    "avg_rating": 3.42,
+    "positive_pct": "43.41852330381622"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Animation",
+    "rating_count": 120754,
+    "unique_users": 37398,
+    "unique_movies": 135,
+    "avg_rating": 3.53,
+    "positive_pct": "48.43731884658065"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Music",
+    "rating_count": 158381,
+    "unique_users": 52412,
+    "unique_movies": 452,
+    "avg_rating": 3.51,
+    "positive_pct": "48.40669019642508"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Film-Noir",
+    "rating_count": 30708,
+    "unique_users": 13202,
+    "unique_movies": 250,
+    "avg_rating": 3.97,
+    "positive_pct": "68.94945942425427"
+  },
+  {
+    "era": "当代",
+    "genre": "Musical",
+    "rating_count": 7583,
+    "unique_users": 5080,
+    "unique_movies": 147,
+    "avg_rating": 3.41,
+    "positive_pct": "44.59976262692866"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Western",
+    "rating_count": 97465,
+    "unique_users": 33289,
+    "unique_movies": 560,
+    "avg_rating": 3.84,
+    "positive_pct": "63.10060021546196"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Musical",
+    "rating_count": 22498,
+    "unique_users": 9619,
+    "unique_movies": 305,
+    "avg_rating": 3.84,
+    "positive_pct": "63.56565028002489"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Music",
+    "rating_count": 46242,
+    "unique_users": 23410,
+    "unique_movies": 231,
+    "avg_rating": 3.76,
+    "positive_pct": "59.32701872756369"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Western",
+    "rating_count": 3437,
+    "unique_users": 2913,
+    "unique_movies": 34,
+    "avg_rating": 3.25,
+    "positive_pct": "38.78382310154204"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Adult",
+    "rating_count": 39,
+    "unique_users": 30,
+    "unique_movies": 11,
+    "avg_rating": 2.51,
+    "positive_pct": "10.25641025641026"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Animation",
+    "rating_count": 559762,
+    "unique_users": 112659,
+    "unique_movies": 304,
+    "avg_rating": 3.61,
+    "positive_pct": "53.34463575591055"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Crime",
+    "rating_count": 2673172,
+    "unique_users": 154232,
+    "unique_movies": 1747,
+    "avg_rating": 3.58,
+    "positive_pct": "52.34769779123827"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Animation",
+    "rating_count": 552079,
+    "unique_users": 83466,
+    "unique_movies": 371,
+    "avg_rating": 3.62,
+    "positive_pct": "52.50987630393476"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Comedy",
+    "rating_count": 725601,
+    "unique_users": 98346,
+    "unique_movies": 2812,
+    "avg_rating": 3.73,
+    "positive_pct": "58.20209729589678"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Drama",
+    "rating_count": 3199058,
+    "unique_users": 113278,
+    "unique_movies": 6182,
+    "avg_rating": 3.62,
+    "positive_pct": "52.47644775430767"
+  },
+  {
+    "era": "当代",
+    "genre": "Biography",
+    "rating_count": 239325,
+    "unique_users": 40491,
+    "unique_movies": 1402,
+    "avg_rating": 3.73,
+    "positive_pct": "55.70876423273791"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Thriller",
+    "rating_count": 1201146,
+    "unique_users": 99962,
+    "unique_movies": 1341,
+    "avg_rating": 3.55,
+    "positive_pct": "49.15081097551838"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Thriller",
+    "rating_count": 1718965,
+    "unique_users": 147400,
+    "unique_movies": 1190,
+    "avg_rating": 3.45,
+    "positive_pct": "46.59577129260922"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Mystery",
+    "rating_count": 822676,
+    "unique_users": 92432,
+    "unique_movies": 815,
+    "avg_rating": 3.57,
+    "positive_pct": "50.45424930349250"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Documentary",
+    "rating_count": 134537,
+    "unique_users": 34346,
+    "unique_movies": 1340,
+    "avg_rating": 3.63,
+    "positive_pct": "53.98514906679947"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Family",
+    "rating_count": 170133,
+    "unique_users": 52443,
+    "unique_movies": 439,
+    "avg_rating": 3.52,
+    "positive_pct": "48.89233717150700"
+  },
+  {
+    "era": "当代",
+    "genre": "War",
+    "rating_count": 14627,
+    "unique_users": 8364,
+    "unique_movies": 280,
+    "avg_rating": 3.59,
+    "positive_pct": "50.27004854037055"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Crime",
+    "rating_count": 84212,
+    "unique_users": 24707,
+    "unique_movies": 692,
+    "avg_rating": 3.94,
+    "positive_pct": "67.75637676340664"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Documentary",
+    "rating_count": 10222,
+    "unique_users": 5129,
+    "unique_movies": 285,
+    "avg_rating": 3.72,
+    "positive_pct": "58.06104480532185"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Adult",
+    "rating_count": 6,
+    "unique_users": 5,
+    "unique_movies": 3,
+    "avg_rating": 2.08,
+    "positive_pct": "16.66666666666667"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Action|Drama",
+    "rating_count": 1,
+    "unique_users": 1,
+    "unique_movies": 1,
+    "avg_rating": 0.5,
+    "positive_pct": "0E-14"
+  },
+  {
+    "era": "当代",
+    "genre": "Adult",
+    "rating_count": 6,
+    "unique_users": 5,
+    "unique_movies": 2,
+    "avg_rating": 2.33,
+    "positive_pct": "16.66666666666667"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Action",
+    "rating_count": 3038701,
+    "unique_users": 153129,
+    "unique_movies": 1772,
+    "avg_rating": 3.32,
+    "positive_pct": "41.13056862126284"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Mystery",
+    "rating_count": 250226,
+    "unique_users": 61972,
+    "unique_movies": 637,
+    "avg_rating": 3.9,
+    "positive_pct": "66.18297059458250"
+  },
+  {
+    "era": "当代",
+    "genre": "Sci-Fi",
+    "rating_count": 563003,
+    "unique_users": 53052,
+    "unique_movies": 830,
+    "avg_rating": 3.62,
+    "positive_pct": "51.17628147629764"
+  },
+  {
+    "era": "当代",
+    "genre": "Horror",
+    "rating_count": 164301,
+    "unique_users": 21874,
+    "unique_movies": 2249,
+    "avg_rating": 3.22,
+    "positive_pct": "34.85188769392761"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Sci-Fi",
+    "rating_count": 354567,
+    "unique_users": 94540,
+    "unique_movies": 532,
+    "avg_rating": 3.71,
+    "positive_pct": "57.85648410596587"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Musical",
+    "rating_count": 113489,
+    "unique_users": 39323,
+    "unique_movies": 339,
+    "avg_rating": 3.61,
+    "positive_pct": "54.25107279119562"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Adventure",
+    "rating_count": 115514,
+    "unique_users": 45739,
+    "unique_movies": 392,
+    "avg_rating": 3.69,
+    "positive_pct": "55.49630347836626"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Fantasy",
+    "rating_count": 77304,
+    "unique_users": 37841,
+    "unique_movies": 162,
+    "avg_rating": 3.81,
+    "positive_pct": "61.50910690261823"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Family",
+    "rating_count": 99087,
+    "unique_users": 44259,
+    "unique_movies": 210,
+    "avg_rating": 3.78,
+    "positive_pct": "59.66877592418783"
+  },
+  {
+    "era": "经典时代",
+    "genre": "History",
+    "rating_count": 40822,
+    "unique_users": 18404,
+    "unique_movies": 377,
+    "avg_rating": 3.74,
+    "positive_pct": "59.12988094654843"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Action",
+    "rating_count": 267727,
+    "unique_users": 55374,
+    "unique_movies": 1235,
+    "avg_rating": 3.56,
+    "positive_pct": "50.03455012008501"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Western",
+    "rating_count": 114306,
+    "unique_users": 62070,
+    "unique_movies": 86,
+    "avg_rating": 3.54,
+    "positive_pct": "50.42867391038091"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Biography",
+    "rating_count": 6909,
+    "unique_users": 4159,
+    "unique_movies": 109,
+    "avg_rating": 3.71,
+    "positive_pct": "56.60732378057606"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Animation",
+    "rating_count": 64574,
+    "unique_users": 30383,
+    "unique_movies": 24,
+    "avg_rating": 3.55,
+    "positive_pct": "49.49050701520736"
+  },
+  {
+    "era": "现代时代",
+    "genre": "(no genres listed)",
+    "rating_count": 3,
+    "unique_users": 2,
+    "unique_movies": 2,
+    "avg_rating": 2.5,
+    "positive_pct": "33.33333333333333"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Comedy",
+    "rating_count": 4824958,
+    "unique_users": 155699,
+    "unique_movies": 3931,
+    "avg_rating": 3.36,
+    "positive_pct": "43.35337219515693"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Sci-Fi",
+    "rating_count": 847872,
+    "unique_users": 91557,
+    "unique_movies": 432,
+    "avg_rating": 3.39,
+    "positive_pct": "42.77048894172705"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Comedy",
+    "rating_count": 2284351,
+    "unique_users": 107332,
+    "unique_movies": 3676,
+    "avg_rating": 3.35,
+    "positive_pct": "41.39013662961603"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Action",
+    "rating_count": 2014733,
+    "unique_users": 105161,
+    "unique_movies": 1532,
+    "avg_rating": 3.36,
+    "positive_pct": "41.40796820223821"
+  },
+  {
+    "era": "当代",
+    "genre": "Mystery",
+    "rating_count": 249690,
+    "unique_users": 39596,
+    "unique_movies": 1518,
+    "avg_rating": 3.56,
+    "positive_pct": "48.74123913652930"
+  },
+  {
+    "era": "当代",
+    "genre": "Romance",
+    "rating_count": 238327,
+    "unique_users": 33525,
+    "unique_movies": 2317,
+    "avg_rating": 3.45,
+    "positive_pct": "43.35639688327382"
+  },
+  {
+    "era": "当代",
+    "genre": "Thriller",
+    "rating_count": 469435,
+    "unique_users": 52341,
+    "unique_movies": 2699,
+    "avg_rating": 3.6,
+    "positive_pct": "50.30408895800271"
+  },
+  {
+    "era": "当代",
+    "genre": "History",
+    "rating_count": 84086,
+    "unique_users": 26254,
+    "unique_movies": 883,
+    "avg_rating": 3.71,
+    "positive_pct": "54.35149727659777"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Horror",
+    "rating_count": 831587,
+    "unique_users": 122692,
+    "unique_movies": 1105,
+    "avg_rating": 3.24,
+    "positive_pct": "40.01337202241016"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Documentary",
+    "rating_count": 91604,
+    "unique_users": 33551,
+    "unique_movies": 498,
+    "avg_rating": 3.83,
+    "positive_pct": "65.47858172132221"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Romance",
+    "rating_count": 138982,
+    "unique_users": 41974,
+    "unique_movies": 1190,
+    "avg_rating": 3.92,
+    "positive_pct": "66.43594134492236"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Western",
+    "rating_count": 11999,
+    "unique_users": 7030,
+    "unique_movies": 160,
+    "avg_rating": 3.82,
+    "positive_pct": "62.32186015501292"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Biography",
+    "rating_count": 599964,
+    "unique_users": 118666,
+    "unique_movies": 458,
+    "avg_rating": 3.77,
+    "positive_pct": "60.76581261542359"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "History",
+    "rating_count": 118007,
+    "unique_users": 39294,
+    "unique_movies": 359,
+    "avg_rating": 3.68,
+    "positive_pct": "54.49761454828951"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Adult",
+    "rating_count": 112,
+    "unique_users": 103,
+    "unique_movies": 10,
+    "avg_rating": 2.59,
+    "positive_pct": "14.28571428571429"
+  },
+  {
+    "era": "经典时代",
+    "genre": "(no genres listed)",
+    "rating_count": 4,
+    "unique_users": 4,
+    "unique_movies": 3,
+    "avg_rating": 1.88,
+    "positive_pct": "0E-14"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Sci-Fi",
+    "rating_count": 1584598,
+    "unique_users": 148519,
+    "unique_movies": 673,
+    "avg_rating": 3.43,
+    "positive_pct": "46.56853031494423"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Drama",
+    "rating_count": 6271109,
+    "unique_users": 160800,
+    "unique_movies": 5615,
+    "avg_rating": 3.64,
+    "positive_pct": "55.06767622760185"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Mystery",
+    "rating_count": 936416,
+    "unique_users": 133393,
+    "unique_movies": 636,
+    "avg_rating": 3.53,
+    "positive_pct": "50.42523835560264"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Sport",
+    "rating_count": 121267,
+    "unique_users": 41876,
+    "unique_movies": 236,
+    "avg_rating": 3.4,
+    "positive_pct": "42.64061945953969"
+  },
+  {
+    "era": "当代",
+    "genre": "Animation",
+    "rating_count": 295471,
+    "unique_users": 38878,
+    "unique_movies": 681,
+    "avg_rating": 3.5,
+    "positive_pct": "46.80933154184336"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Horror",
+    "rating_count": 441411,
+    "unique_users": 64171,
+    "unique_movies": 1003,
+    "avg_rating": 3.19,
+    "positive_pct": "35.87654136394426"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Music",
+    "rating_count": 341107,
+    "unique_users": 87588,
+    "unique_movies": 379,
+    "avg_rating": 3.5,
+    "positive_pct": "49.89988478688505"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Crime",
+    "rating_count": 446604,
+    "unique_users": 92633,
+    "unique_movies": 1753,
+    "avg_rating": 3.97,
+    "positive_pct": "68.51976247413816"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Drama",
+    "rating_count": 1371283,
+    "unique_users": 112584,
+    "unique_movies": 5684,
+    "avg_rating": 3.9,
+    "positive_pct": "65.85898023967336"
+  },
+  {
+    "era": "当代",
+    "genre": "Fantasy",
+    "rating_count": 224177,
+    "unique_users": 37431,
+    "unique_movies": 904,
+    "avg_rating": 3.41,
+    "positive_pct": "43.15384718325252"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Horror",
+    "rating_count": 270683,
+    "unique_users": 65045,
+    "unique_movies": 1124,
+    "avg_rating": 3.56,
+    "positive_pct": "52.49609321604977"
+  },
+  {
+    "era": "经典时代",
+    "genre": "War",
+    "rating_count": 166350,
+    "unique_users": 53917,
+    "unique_movies": 496,
+    "avg_rating": 3.98,
+    "positive_pct": "69.41809437932071"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Mystery",
+    "rating_count": 78063,
+    "unique_users": 28348,
+    "unique_movies": 347,
+    "avg_rating": 4.01,
+    "positive_pct": "70.73261340199582"
+  },
+  {
+    "era": "当代",
+    "genre": "Sport",
+    "rating_count": 29292,
+    "unique_users": 13119,
+    "unique_movies": 384,
+    "avg_rating": 3.7,
+    "positive_pct": "54.79653147617097"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Comedy",
+    "rating_count": 146413,
+    "unique_users": 36823,
+    "unique_movies": 1205,
+    "avg_rating": 3.85,
+    "positive_pct": "64.01822242560428"
+  },
+  {
+    "era": "当代",
+    "genre": "News",
+    "rating_count": 1052,
+    "unique_users": 710,
+    "unique_movies": 87,
+    "avg_rating": 3.69,
+    "positive_pct": "51.14068441064639"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Documentary",
+    "rating_count": 2074,
+    "unique_users": 1473,
+    "unique_movies": 53,
+    "avg_rating": 3.72,
+    "positive_pct": "57.90742526518804"
+  },
+  {
+    "era": "经典时代",
+    "genre": "News",
+    "rating_count": 15,
+    "unique_users": 12,
+    "unique_movies": 2,
+    "avg_rating": 3.3,
+    "positive_pct": "20.00000000000000"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Adventure|Drama",
+    "rating_count": 2,
+    "unique_users": 2,
+    "unique_movies": 1,
+    "avg_rating": 3.0,
+    "positive_pct": "0E-14"
+  },
+  {
+    "era": "现代时代",
+    "genre": "War",
+    "rating_count": 285686,
+    "unique_users": 100515,
+    "unique_movies": 253,
+    "avg_rating": 3.82,
+    "positive_pct": "63.08394531058575"
+  },
+  {
+    "era": "当代",
+    "genre": "Adventure",
+    "rating_count": 954901,
+    "unique_users": 56297,
+    "unique_movies": 1661,
+    "avg_rating": 3.53,
+    "positive_pct": "48.00089223909075"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Adventure",
+    "rating_count": 699710,
+    "unique_users": 112688,
+    "unique_movies": 1172,
+    "avg_rating": 3.73,
+    "positive_pct": "58.27928713324091"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Musical",
+    "rating_count": 56604,
+    "unique_users": 29031,
+    "unique_movies": 139,
+    "avg_rating": 3.45,
+    "positive_pct": "46.98961204155183"
+  },
+  {
+    "era": "当代",
+    "genre": "Documentary",
+    "rating_count": 61762,
+    "unique_users": 13415,
+    "unique_movies": 2883,
+    "avg_rating": 3.67,
+    "positive_pct": "53.55234610278165"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Biography",
+    "rating_count": 382281,
+    "unique_users": 73458,
+    "unique_movies": 551,
+    "avg_rating": 3.73,
+    "positive_pct": "56.54976313235552"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "War",
+    "rating_count": 134907,
+    "unique_users": 55557,
+    "unique_movies": 227,
+    "avg_rating": 3.66,
+    "positive_pct": "54.40636883186195"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Drama",
+    "rating_count": 343605,
+    "unique_users": 60803,
+    "unique_movies": 2428,
+    "avg_rating": 3.89,
+    "positive_pct": "65.14049562724640"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Musical",
+    "rating_count": 57817,
+    "unique_users": 33577,
+    "unique_movies": 147,
+    "avg_rating": 3.24,
+    "positive_pct": "39.26526800076102"
+  },
+  {
+    "era": "当代",
+    "genre": "Western",
+    "rating_count": 39001,
+    "unique_users": 25219,
+    "unique_movies": 74,
+    "avg_rating": 3.85,
+    "positive_pct": "62.83685033717084"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Sport",
+    "rating_count": 217329,
+    "unique_users": 68363,
+    "unique_movies": 193,
+    "avg_rating": 3.37,
+    "positive_pct": "44.01621504723254"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "War",
+    "rating_count": 63343,
+    "unique_users": 35981,
+    "unique_movies": 231,
+    "avg_rating": 3.99,
+    "positive_pct": "69.21048892537455"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "History",
+    "rating_count": 8760,
+    "unique_users": 5072,
+    "unique_movies": 163,
+    "avg_rating": 3.7,
+    "positive_pct": "55.84474885844749"
+  },
+  {
+    "era": "当代",
+    "genre": "Action",
+    "rating_count": 1045298,
+    "unique_users": 51119,
+    "unique_movies": 2684,
+    "avg_rating": 3.46,
+    "positive_pct": "44.20863715418952"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "Crime",
+    "rating_count": 1299428,
+    "unique_users": 101552,
+    "unique_movies": 1584,
+    "avg_rating": 3.56,
+    "positive_pct": "49.76751309037515"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Romance",
+    "rating_count": 1975367,
+    "unique_users": 147996,
+    "unique_movies": 1697,
+    "avg_rating": 3.45,
+    "positive_pct": "46.73728983019358"
+  },
+  {
+    "era": "现代时代",
+    "genre": "History",
+    "rating_count": 343503,
+    "unique_users": 109575,
+    "unique_movies": 348,
+    "avg_rating": 3.82,
+    "positive_pct": "63.03845963499591"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Horror",
+    "rating_count": 35974,
+    "unique_users": 14276,
+    "unique_movies": 216,
+    "avg_rating": 3.57,
+    "positive_pct": "51.20086729304498"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Thriller",
+    "rating_count": 25679,
+    "unique_users": 13884,
+    "unique_movies": 133,
+    "avg_rating": 3.9,
+    "positive_pct": "66.20584913742747"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Sci-Fi",
+    "rating_count": 16103,
+    "unique_users": 9771,
+    "unique_movies": 50,
+    "avg_rating": 3.73,
+    "positive_pct": "59.28708936223064"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Action",
+    "rating_count": 21097,
+    "unique_users": 10994,
+    "unique_movies": 208,
+    "avg_rating": 3.76,
+    "positive_pct": "59.36863061098734"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Music",
+    "rating_count": 7606,
+    "unique_users": 5048,
+    "unique_movies": 143,
+    "avg_rating": 3.71,
+    "positive_pct": "57.82277149618722"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "Sport",
+    "rating_count": 1128,
+    "unique_users": 792,
+    "unique_movies": 38,
+    "avg_rating": 3.52,
+    "positive_pct": "46.18794326241135"
+  },
+  {
+    "era": "现代时代",
+    "genre": "Crime|Drama|Mystery",
+    "rating_count": 7,
+    "unique_users": 7,
+    "unique_movies": 1,
+    "avg_rating": 3.0,
+    "positive_pct": "42.85714285714286"
+  },
+  {
+    "era": "经典时代",
+    "genre": "Comedy|Drama",
+    "rating_count": 2,
+    "unique_users": 2,
+    "unique_movies": 1,
+    "avg_rating": 3.75,
+    "positive_pct": "50.00000000000000"
+  },
+  {
+    "era": "黄金时代",
+    "genre": "News",
+    "rating_count": 1,
+    "unique_users": 1,
+    "unique_movies": 1,
+    "avg_rating": 3.5,
+    "positive_pct": "0E-14"
+  },
+  {
+    "era": "新世纪初",
+    "genre": "(no genres listed)",
+    "rating_count": 2,
+    "unique_users": 2,
+    "unique_movies": 2,
+    "avg_rating": 2.0,
+    "positive_pct": "0E-14"
+  }
+]
