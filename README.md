@@ -1,108 +1,135 @@
-# 个人内容评价数据平台 Content Data Platform
+# Content Data Platform · 内容评价数据平台
 
-> 基于真实观影数据的内容评价与用户行为分析平台，覆盖埋点采集 → ETL 加工 → 数仓建模 → OLAP 查询 → 可视化看板全链路。
+> 基于真实公开数据集（IMDb + MovieLens）+ 个人观影记录,构建的端到端内容数据平台,覆盖埋点采集 → ETL 加工 → 数仓建模 → OLAP 分析 → 前端可视化全链路。
 
-[![Build](https://img.shields.io/badge/status-WIP-yellow)]() [![License](https://img.shields.io/badge/data-CC%20BY--NC%204.0-blue)]() [![Tech](https://img.shields.io/badge/stack-Hive%20%7C%20Kafka%20%7C%20Flink%20%7C%20ClickHouse-success)]()
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=flat-square)](https://jiayiqu-renyi.github.io/content-data-platform/)
+[![Stack](https://img.shields.io/badge/stack-PySpark%20·%20ClickHouse%20·%20Flink-blue?style=flat-square)]()
+[![Data License](https://img.shields.io/badge/data-CC%20BY--NC%204.0-lightgrey?style=flat-square)]()
 
-🌐 **在线 Demo**：[https://github.com/JiayiQU-renyi/content-data-platform](#)
+🌐 **Live Demo** → [https://jiayiqu-renyi.github.io/content-data-platform/](https://jiayiqu-renyi.github.io/content-data-platform/)
 
 ---
 
-## 📖 项目背景
+## 项目背景
 
-这是一个面向影视、剧集与音乐剧三类内容形态的端到端数据工程实践项目。区别于纯模拟项目，本项目融合了 **IMDb 公开数据集**、**MovieLens 真实用户行为数据**与**个人多年观影记录**，在合法合规的前提下构建了一个完整的数据平台。
+这不是一个普通的 SaaS dashboard,而是一份关于"**注意力如何在十年间形成审美**"的数据档案。
 
-## 🏗️ 技术架构
+技术上,它覆盖了一个完整数据工程项目应有的全部链路:从原始数据接入、数仓四层建模、OLAP 查询加速、再到前端可视化。
+内容上,它融合了 IMDb 1000 万部影视作品、MovieLens 2500 万条真实用户评分,以及作者本人多年来的观影记录。
 
-```
-                  前端展示（HTML / CSS / JS / ECharts）
-                              │
-              ┌───────────────┴───────────────┐
-              ▼                               ▼
-       ClickHouse (OLAP)              静态指标 JSON
-              ▲                               ▲
-              │                               │
-          Flink                       Hive + PySpark
-       (实时数仓)                       (离线数仓)
-              ▲                               ▲
-              │                               │
-          Kafka                          本地文件系统
-       (事件总线)                        (HDFS 模拟)
-              ▲                               ▲
-              └───────────────┬───────────────┘
-                              │
-        IMDb 数据集 + MovieLens 25M + 个人观影记录 + TMDb API
-```
+## 技术架构
 
-## 🧱 数仓分层
+\`\`\`
+                    前端展示层 (HTML/CSS/JS + ECharts)
+                              ↑ JSON
+            ┌─────────────────┴─────────────────┐
+            ↑                                   ↑
+       ClickHouse (OLAP)                  静态指标 JSON
+            ↑                                   ↑
+            │                                   │
+        Flink                          Spark + Hive Metastore
+       (实时数仓)                          (离线数仓)
+            ↑                                   ↑
+            │                                   │
+        Kafka                              HDFS / Parquet
+       (事件总线)                         (Hive 风格分区)
+            ↑                                   ↑
+            └───────────────┬───────────────────┘
+                            │
+        IMDb + MovieLens 25M + 个人观影记录 + TMDb API
+\`\`\`
+
+## 数仓分层
 
 | 层级 | 含义 | 本项目内容 |
 |---|---|---|
-| ODS | 原始数据层 | 直接 load 进来的 IMDb / MovieLens 原始表 |
-| DWD | 明细数据层 | 清洗后的用户行为明细、内容明细 |
-| DWS | 汇总数据层 | 用户画像、内容热度、类型聚合 |
-| ADS | 应用数据层 | 看板指标：DAU、热度榜、用户偏好分布 |
+| **ODS** | 原始数据层 | 5 张原始表,从 CSV/TSV 转 Parquet,体积压缩 10x |
+| **DWD** | 明细数据层 | `dim_movie` 维度表 + `fact_user_rating` 按年分区事实表 |
+| **DWS** | 汇总数据层 | `dws_user_daily`、`dws_movie_daily`、`dws_user_profile` |
+| **ADS** | 应用数据层 | 5 张面向看板的指标表(DAU 趋势/Top 榜/留存/类型热度/漏斗) |
 
-## 📂 项目结构
+## 技术栈
 
-```
+| 类别 | 技术选型 | 选型理由 |
+|---|---|---|
+| **离线计算** | PySpark + Spark SQL | 业界主流,性能优于 Hive on MR,SQL 兼容 |
+| **存储格式** | Parquet + Hive 风格分区 | 列存压缩 + 分区裁剪,大幅提升查询性能 |
+| **OLAP** | ClickHouse (MergeTree) | 多维分析查询性能行业领先 |
+| **实时流** | Kafka + Flink | 业界标准的实时数仓组合 |
+| **前端** | HTML/CSS/JS + ECharts | 零构建,轻量,百度系生态匹配 |
+| **部署** | GitHub Pages + GitHub Actions | 自动化 CI/CD |
+
+## 项目亮点
+
+- 🏗️ **完整四层数仓** — 不是只有数据清洗,从 ODS 一路建到 ADS,模拟真实生产环境
+- ⏱️ **Hive 风格分区** — `fact_user_rating` 按年分区,分区裁剪查询提速 N 倍
+- 📊 **5 张面向业务的 ADS 表** — Cohort 留存矩阵、参与度漏斗、内容热度榜等
+- 🎬 **Editorial 设计语言** — 不走 SaaS 模板,以个人作品的姿态呈现
+- 📚 **个人观影评价板块** — 10 部塑造作者审美的作品,展示批评者视角
+- 🔒 **数据合规** — 全部使用合法公开数据集,清晰声明各源协议
+
+## 数据源声明
+
+本项目仅用于个人学习与求职作品集展示,不作任何商业用途。
+
+| 数据源 | 内容 | 协议 |
+|---|---|---|
+| [IMDb Non-Commercial Datasets](https://developer.imdb.com/non-commercial-datasets/) | 影视元数据 | CC BY-NC 4.0 |
+| [MovieLens 25M](https://grouplens.org/datasets/movielens/) | 2500 万条用户评分 | GroupLens 学术使用条款 |
+| [TMDb API](https://developer.themoviedb.org/) | 海报与多语言信息 | TMDb API Terms |
+| 个人观影记录 | 个人多年来的观影笔记 | — |
+
+> This product uses the TMDb API but is not endorsed or certified by TMDb.
+
+## 项目结构
+
+\`\`\`
 content-data-platform/
-├── docs/              # 设计文档、架构图、埋点方案
-├── data/              # 数据源说明与个人数据
-├── etl/               # 数仓 SQL（ODS → DWD → DWS → ADS）
-├── streaming/         # Kafka 生产者 + Flink 实时作业
-├── frontend/          # 前端展示
-├── infra/             # Docker Compose 与基础设施
-└── notebooks/         # 数据探索 Jupyter Notebook
-```
+├── .github/workflows/    # GitHub Actions CI/CD
+├── docs/                 # 设计文档与架构图
+├── data/                 # 数据源说明与个人数据
+├── notebooks/            # 数据探索与 ETL Jupyter Notebooks
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_sql_training.ipynb
+│   ├── 03_pyspark_warehouse.ipynb  # ODS + DWD 层建设
+│   └── 04_dws_ads_layers.ipynb     # DWS + ADS 层 + JSON 导出
+├── etl/                  # SQL ETL 脚本(规划中)
+├── streaming/            # Kafka + Flink 实时链路(规划中)
+└── frontend/             # 静态网站
+    ├── index.html
+    ├── styles/main.css
+    ├── scripts/main.js
+    └── data/             # ADS 表导出的 JSON
+\`\`\`
 
-## 📊 数据源声明（合规说明）
+## 本地运行
 
-| 数据源 | 内容 | 协议 | 商用 |
-|---|---|---|---|
-| [IMDb Non-Commercial Datasets](https://developer.imdb.com/non-commercial-datasets/) | 影视元数据 | CC BY-NC 4.0 | ❌ |
-| [MovieLens 25M](https://grouplens.org/datasets/movielens/) | 用户评分行为 | GroupLens 学术使用条款 | ❌ |
-| [TMDb API](https://developer.themoviedb.org/) | 海报与多语言信息 | TMDb API Terms | ❌ |
-| 个人观影记录 | 个人数据资产 | — | — |
+\`\`\`bash
+# 1. 克隆仓库
+git clone https://github.com/JiayiQU-renyi/content-data-platform.git
+cd content-data-platform
 
-⚠️ **本项目仅用于学习、求职作品集与个人爱好展示，不作任何商业用途。**
+# 2. 创建 Python 虚拟环境
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 
-## 🚀 快速启动
+# 3. 下载原始数据(详见 data/README.md)
 
-```bash
-# 启动全部基础设施
-docker-compose -f infra/docker-compose.yml up -d
+# 4. 跑 Notebooks 重建数据仓库
+jupyter lab notebooks/
 
-# 运行离线 ETL
-cd etl && ./run_etl.sh
+# 5. 本地预览前端
+cd frontend
+python3 -m http.server 8080
+# 浏览器访问 http://localhost:8080
+\`\`\`
 
-# 启动 Kafka 事件模拟器
-python streaming/kafka-producer/event_replay.py
+## License
 
-# 启动 Flink 实时作业
-python streaming/flink-jobs/realtime_metrics.py
-```
-
-## 📈 项目进度
-
-- [ ] Phase 0: 环境与项目骨架
-- [ ] Phase 1: 数据探查与前端 MVP
-- [ ] Phase 2: 离线数仓建设
-- [ ] Phase 3: 实时数仓 + OLAP
-- [ ] Phase 4: 文档与展示打磨
-
-## 📚 关键技术点
-
-- 维度建模（星型模型）+ 拉链表 SCD2 处理内容元数据缓慢变化
-- 数据倾斜处理：热门内容场景下的 Key 加盐两阶段聚合
-- Lambda 架构：离线全量 + 实时增量结合
-- Flink Watermark + 侧输出流处理乱序与迟到事件
-- ClickHouse 物化视图加速高频看板查询
-
-## 📝 License
-
-代码部分：MIT  
-数据部分：遵循各自数据源协议（详见上方"数据源声明"）
+代码: MIT
+数据: 遵循各数据源协议(详见上方"数据源声明")
 
 ---
-*项目作者：瞿嘉亿 · 西南大学软件工程 · 2026 数据工程方向*
+
+**Author** · Jiayi Qu (瞿嘉亿) · [GitHub](https://github.com/JiayiQU-renyi) · 西南大学软件工程 · 2026 数据工程方向
